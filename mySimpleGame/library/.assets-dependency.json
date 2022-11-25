@@ -1,0 +1,69 @@
+{
+  "uuid": {
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\materials\\coin.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\materials\\straitFloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\materials\\coin.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\materials\\straitFloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_mesh_helmet.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_mesh.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_skel.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\test\\cocos_anim_jump.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\test\\cocos_anim_jump.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\road-block\\scene.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\road-block\\scene.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "E:\\myCocosGame\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.bin"
+    ]
+  }
+}
