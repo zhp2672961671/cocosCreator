@@ -5,8 +5,8 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc",
+      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/jsb",
       "./temp/declarations/cc.env"
     ],
@@ -15,7 +15,7 @@
         "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "E:\\myCocosGame\\mySimpleGame\\assets\\*"
+        "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

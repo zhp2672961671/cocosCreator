@@ -1,0 +1,282 @@
+{
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\scene.meta": {
+    "time": 1669361514811.6978
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\scene": {
+    "time": 1669616876202.236,
+    "uuid": "abdc620a-7dfa-415d-a6c6-b085a8eace16",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script.meta": {
+    "time": 1669361764471.2988
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script": {
+    "time": 1669692574483.2183,
+    "uuid": "3bfc0170-23f7-47ac-94d7-dea1415f463f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\login.ts.meta": {
+    "time": 1669360132158.53
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\login.ts": {
+    "time": 1669692372438.7312,
+    "uuid": "9fc5f408-fa13-4a36-916a-eedfdffd8218",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\scene\\login.scene.meta": {
+    "time": 1669362285819.1218
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\scene\\login.scene": {
+    "time": 1669692373718.2527,
+    "uuid": "05de607c-61fa-4fd2-8e71-30ac47351dc7",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework.meta": {
+    "time": 1669362427576.0374
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework": {
+    "time": 1669800441038.5369,
+    "uuid": "b85aa559-5de1-49b6-a3fe-0fef6fe95e8f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\constant.ts.meta": {
+    "time": 1669360132175.4844
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\constant.ts": {
+    "time": 1669362611061.153,
+    "uuid": "b08f0f24-88e9-4403-b7ba-a9459aec09c0",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res.meta": {
+    "time": 1669363565303.078
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res": {
+    "time": 1669620994299.0232,
+    "uuid": "4b724288-3182-46b8-86be-534279fb4c1d",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect.meta": {
+    "time": 1669363574509.145
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect": {
+    "time": 1669690412210.7915,
+    "uuid": "5527e4a0-3f30-4123-9d9f-55a3803cd765",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart.meta": {
+    "time": 1669363611032.6702
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart": {
+    "time": 1669688022428.127,
+    "uuid": "09b6ee13-1b76-4234-b90d-d148a308a1b6",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\white.png.meta": {
+    "time": 1669360145006.8657
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\glow_blue3.png.meta": {
+    "time": 1669360144957.996
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\gameStart.png.meta": {
+    "time": 1669360144953.0095
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\gameStart.plist.meta": {
+    "time": 1669360145118.5664
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\white.png": {
+    "time": 1645436072000,
+    "uuid": "cf4af6e3-cd64-4610-9b87-8349cd1e7c42",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\glow_blue3.png": {
+    "time": 1645436072000,
+    "uuid": "dff84119-a60c-4366-b71f-9e237002c0ff",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\gameStart.png": {
+    "time": 1645436072000,
+    "uuid": "98d29659-08b7-4a12-9ee4-26c65c245fbf",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\gameStart.plist": {
+    "time": 1645436072000,
+    "uuid": "9c0746b4-6c62-4c91-8d77-00791488deee",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\scene\\fight.scene.meta": {
+    "time": 1669616876204.2305
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\scene\\fight.scene": {
+    "time": 1669691565489.2622,
+    "uuid": "addce05f-68d0-478a-82be-2a27247a3497",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\material.meta": {
+    "time": 1669620994300.0193
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\material": {
+    "time": 1669627845160.0042,
+    "uuid": "633b3044-669d-43ae-8f19-89f6ce0fb1b9",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\material\\wall.mtl.meta": {
+    "time": 1669360144591.8235
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\material\\wall.mtl": {
+    "time": 1669686360203.8906,
+    "uuid": "116fb9b2-2c6b-490f-9187-9dee2361b4d8",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\material\\material.mtl.meta": {
+    "time": 1669627845163.9934
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\material\\material.mtl": {
+    "time": 1669631199629.3643,
+    "uuid": "fd2792a4-896c-4501-a7da-d8137db6603c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\add.mtl.meta": {
+    "time": 1669364581431.3833
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\add.mtl": {
+    "time": 1669366784649.585,
+    "uuid": "8d2cc2cd-8284-4a49-8fdf-074a6d9f2e4b",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\glow_blue3.mtl.meta": {
+    "time": 1669369606549.7568
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\gameStart\\glow_blue3.mtl": {
+    "time": 1669369688078.1528,
+    "uuid": "a89437e8-4eb6-43bd-bcca-98616e5ccfa0",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\cloud.meta": {
+    "time": 1669688031383.07
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\cloud": {
+    "time": 1669688260773.599,
+    "uuid": "af1144f2-61fd-4ec7-a654-81b85fce9d2a",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\cloud\\sky01.mtl.meta": {
+    "time": 1669688048416.5479
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\cloud\\sky01.mtl": {
+    "time": 1669688305941.5474,
+    "uuid": "e3ff7b59-b1db-4ab6-a71e-e14755cb0212",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\cloud\\sky01.png.meta": {
+    "time": 1669360144913.1172
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\cloud\\sky01.png": {
+    "time": 1631022102000,
+    "uuid": "88a891bb-79bc-4c06-a51e-161a065618ea",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture.meta": {
+    "time": 1669688391978.7434
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture": {
+    "time": 1669688935123.0657,
+    "uuid": "15d213cd-9e19-4ed4-9817-24952cf05e28",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\Fog01.mtl.meta": {
+    "time": 1669688418448.456
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\Fog01.mtl": {
+    "time": 1669689230622.632,
+    "uuid": "17eca6eb-d97e-494d-a671-ef5f0342994b",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\Fog01.png.meta": {
+    "time": 1669360145462.1401
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\Fog01.png": {
+    "time": 1631022102000,
+    "uuid": "0fa77c39-a759-40aa-972e-00f178552b58",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\animation.meta": {
+    "time": 1669690412211.7893
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\animation\\cloud.anim.meta": {
+    "time": 1669690412214.781
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\animation": {
+    "time": 1669690412210.7915,
+    "uuid": "2301e727-70b3-409f-8b11-ac6a39937f08",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\animation\\cloud.anim": {
+    "time": 1669691010928.0447,
+    "uuid": "6f13f275-076a-4f34-8844-7f68aaacb042",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\main.ts.meta": {
+    "time": 1669692574484.204
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\main.ts": {
+    "time": 1669692850207.3076,
+    "uuid": "e6cdfbca-a766-456a-9b55-b4833a9350b2",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\util.ts.meta": {
+    "time": 1669360132182.4658
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\util.ts": {
+    "time": 1669712112657.6152,
+    "uuid": "5123890b-1801-4188-ba33-de0c5cc31b47",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\storageManager.ts.meta": {
+    "time": 1669360132182.4658
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\storageManager.ts": {
+    "time": 1669773311195.217,
+    "uuid": "56893e3c-6d22-46c9-8a35-d9619ae9e789",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\audioManager.ts.meta": {
+    "time": 1669360132173.4895
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\audioManager.ts": {
+    "time": 1669799696830.9626,
+    "uuid": "5e2ec645-1091-441e-80a0-c7a9575581c1",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\lodash.ts.meta": {
+    "time": 1669360132178.4763
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\lodash.ts": {
+    "time": 1669794762161.7708,
+    "uuid": "a40a4a46-47a9-42aa-8d1c-a11d56e24025",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\resourceUtil.ts.meta": {
+    "time": 1669360132180.4712
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\resourceUtil.ts": {
+    "time": 1645604688000,
+    "uuid": "7844ed5b-3b06-4afb-b24c-62310d414e6f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\localConfig.ts.meta": {
+    "time": 1669360132177.4788
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\localConfig.ts": {
+    "time": 1645499391000,
+    "uuid": "12fac499-8454-4621-86bb-cb188b5433a9",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\csvManager.ts.meta": {
+    "time": 1669360132176.482
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\csvManager.ts": {
+    "time": 1627313050000,
+    "uuid": "d755406e-aa72-4b00-a89b-c15516b5ee4f",
+    "missing": false
+  }
+}

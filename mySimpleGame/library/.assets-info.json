@@ -702,5 +702,709 @@
     "time": 1669081216319.8591,
     "uuid": "e7b007d5-826a-4920-96c1-bf80e52bcad5",
     "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run": {
+    "time": 1669355827578.983,
+    "uuid": "9ca5c291-2496-4938-bdb6-2429a78a6150",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\animations": {
+    "time": 1669355826489.4658,
+    "uuid": "3a166c7a-0026-4545-ace3-b233125a87bd",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\materials": {
+    "time": 1669355826502.4321,
+    "uuid": "fccfaf16-c028-4a4c-b849-2eb0383348ba",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models": {
+    "time": 1669355827317.8335,
+    "uuid": "5659f26b-c311-4b02-ba3d-08f77f7e5a93",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs": {
+    "time": 1669355827483.2417,
+    "uuid": "82649d80-2dfc-4d2a-8151-f93bfcfa8213",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scenes": {
+    "time": 1669355827505.182,
+    "uuid": "bf8318b7-120a-496c-80b6-f66fa1272066",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts": {
+    "time": 1669355827528.12,
+    "uuid": "e0f05be7-6ae4-43ef-b770-e93f8a12e114",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\sounds": {
+    "time": 1669355827575.9912,
+    "uuid": "2bcf31b6-2c94-4119-8d92-91c3cfb679fb",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures": {
+    "time": 1669355828100.797,
+    "uuid": "2f9b2ea9-3c49-488f-b1d0-b2db5e102195",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos": {
+    "time": 1669355826919.9275,
+    "uuid": "0b11a799-b9e7-4174-b045-e636d6c963c8",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\coin": {
+    "time": 1669355827271.8564,
+    "uuid": "c54c4d8d-6f84-43d4-b15e-77c84b0b8fb8",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\road-block": {
+    "time": 1669355827305.6758,
+    "uuid": "4a6c6436-3c85-4fed-a09a-47a20453cc36",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\test": {
+    "time": 1669355827344.9463,
+    "uuid": "8c735613-6812-46c0-8e87-e71c3c52db85",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq": {
+    "time": 1669355828098.7798,
+    "uuid": "cc3c3af2-7fb7-46be-a576-cd31dbbaa8af",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\ui": {
+    "time": 1669355828143.711,
+    "uuid": "2218c98b-9e53-4481-8044-64a1bfb40f64",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations": {
+    "time": 1669355827238.1316,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\CameraFollow.ts": {
+    "time": 1669081216319.8591,
+    "uuid": "e7b007d5-826a-4920-96c1-bf80e52bcad5",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\ColliderChecker.ts": {
+    "time": 1669082689109.7612,
+    "uuid": "bb357c3f-e1ce-4a70-a2e6-0d5405f36785",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\GameDefines.ts": {
+    "time": 1653450841000,
+    "uuid": "1c463122-5ee3-438c-8eda-b4a6bc566767",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\GameManager.ts": {
+    "time": 1669080935130.1235,
+    "uuid": "87ac575c-8eed-4b61-89bc-8c2d0821ec6f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\PlayerController.ts": {
+    "time": 1669084638846.9038,
+    "uuid": "065391a3-d452-4469-8543-14cd8f350022",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run.meta": {
+    "time": 1668148517362.1484
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\animations.meta": {
+    "time": 1668493398522.312
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\materials.meta": {
+    "time": 1668146703306.998
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models.meta": {
+    "time": 1668146703309.9163
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs.meta": {
+    "time": 1668404498429.4846
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scenes.meta": {
+    "time": 1668146703311.9106
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts.meta": {
+    "time": 1668419177041.9282
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\sounds.meta": {
+    "time": 1668146703312.9075
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures.meta": {
+    "time": 1668146703312.9075
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos.meta": {
+    "time": 1668146703319.8894
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\coin.meta": {
+    "time": 1668146703320.8862
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\road-block.meta": {
+    "time": 1668146703320.8862
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\test.meta": {
+    "time": 1668146703321.9153
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq.meta": {
+    "time": 1668146703323.8926
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\ui.meta": {
+    "time": 1668146703323.8926
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations.meta": {
+    "time": 1668146703329.8875
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\CameraFollow.ts.meta": {
+    "time": 1668496478408.9417
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\ColliderChecker.ts.meta": {
+    "time": 1668483745617.6643
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\GameDefines.ts.meta": {
+    "time": 1668146703335.9812
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\GameManager.ts.meta": {
+    "time": 1668492691878.9485
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scripts\\PlayerController.ts.meta": {
+    "time": 1668419196725.9597
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\animations\\block_down.anim": {
+    "time": 1668495632463.9353,
+    "uuid": "64d2bbbc-f96e-4293-b22a-f810005b355a",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\animations\\coin_rot.anim": {
+    "time": 1668494104564.109,
+    "uuid": "b6e44a08-b2f2-4023-bbe7-39163a257181",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\materials\\coin.mtl": {
+    "time": 1668146708435.472,
+    "uuid": "d76f975f-7106-4ee2-ad53-594eb813bc2b",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\materials\\straitFloor.mtl": {
+    "time": 1668146708435.472,
+    "uuid": "8f5b4a04-44da-4b5a-8c23-fec2fe529dd3",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos.zip": {
+    "time": 1653450841000,
+    "uuid": "fa3763b8-4682-4157-a5b7-e9713f1ab1ff",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\Cocos.prefab": {
+    "time": 1668418282114.5862,
+    "uuid": "dcd71e26-2610-4079-bc26-7fcb586fd525",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\Coin.prefab": {
+    "time": 1669082484199.813,
+    "uuid": "4de149d5-e3b7-4914-b6cc-6b027bf92553",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\RoadBlock.prefab": {
+    "time": 1668495638009.0542,
+    "uuid": "b124a222-671d-498a-9068-a2b78049a5ae",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\StraitFloor.prefab": {
+    "time": 1668496155776.294,
+    "uuid": "2263064c-40d0-4b33-bb71-bcb22539d5e7",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scenes\\Main.scene": {
+    "time": 1669084063847.7659,
+    "uuid": "20ce3694-9f5b-45a0-a0ef-63579c57aa10",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\sounds\\coin02.wav": {
+    "time": 1653450841000,
+    "uuid": "ec75b827-136c-4fea-a6e6-94a55026b8e9",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\sounds\\jump02.wav": {
+    "time": 1653450841000,
+    "uuid": "d4ee305d-5aca-4dd9-a804-59d95c2bae98",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\City-Road-Textures.jpg": {
+    "time": 1653450841000,
+    "uuid": "e2eb0ece-719e-49a5-98f1-f363175f8e84",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\body.mtl": {
+    "time": 1668407316137.1304,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01.bin": {
+    "time": 1653450841000,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1653450841000,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1653450841000,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1653450841000,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1653450841000,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02.bin": {
+    "time": 1653450841000,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02_baseColor.png": {
+    "time": 1653450841000,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1653450841000,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1653450841000,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_mesh.gltf": {
+    "time": 1653450841000,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1653450841000,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_skel.gltf": {
+    "time": 1653450841000,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1653450841000,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_squat_anim.bin": {
+    "time": 1653450841000,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\helmet.mtl": {
+    "time": 1668407316472.5852,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\coin\\coin.glb": {
+    "time": 1653450841000,
+    "uuid": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\coin\\coni_paint.png": {
+    "time": 1653450841000,
+    "uuid": "d71b4b9a-2e74-4095-a9ba-0c99072e03b9",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\road-block\\scene.bin": {
+    "time": 1653450841000,
+    "uuid": "8d3e19f4-5ff8-46d0-8026-5da0acc5695d",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\road-block\\scene.gltf": {
+    "time": 1653450841000,
+    "uuid": "18e346ad-f198-4ef1-90c6-8be6a285f834",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\test\\cocos_anim_jump.bin": {
+    "time": 1653450841000,
+    "uuid": "ad12009e-a76e-431a-a454-5e4e2e8fc810",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\test\\cocos_anim_jump.gltf": {
+    "time": 1653450841000,
+    "uuid": "f4d979c8-e820-4f9d-a413-979883c7eac5",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_back.tga": {
+    "time": 1653450841000,
+    "uuid": "dd318b4e-9c3e-4325-b17c-3bfa34773f51",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_bottom.tga": {
+    "time": 1653450841000,
+    "uuid": "cb0610d6-8290-44a7-bd28-151e6b7c4328",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_front.tga": {
+    "time": 1653450841000,
+    "uuid": "efb1c820-c1f6-4f1f-a423-33421432b0b6",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_left.tga": {
+    "time": 1653450841000,
+    "uuid": "a0c3dd29-62d9-48d2-b23e-46daa031d03c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_right.tga": {
+    "time": 1653450841000,
+    "uuid": "5b34dc2e-7c1f-4d4e-8447-b95e94cc5372",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_top.tga": {
+    "time": 1653450841000,
+    "uuid": "85b93441-fc5d-40ff-b4da-8c6256d41bab",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\license.txt": {
+    "time": 1653450841000,
+    "uuid": "f4b8077c-cd26-4d33-ae3a-fede4bd4b45b",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\mp_drakeq.shader": {
+    "time": 1653450841000,
+    "uuid": "7ccb36ec-11d0-4665-bebf-cc3931a715b4",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\readme.txt": {
+    "time": 1653450841000,
+    "uuid": "0fb51c44-0d9b-49b8-87a6-998805a5a12e",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\star.cubemap": {
+    "time": 1653450841000,
+    "uuid": "fd9847b6-400d-432c-82a6-043f99d49b60",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\ui\\metalPanel_green.png": {
+    "time": 1653450841000,
+    "uuid": "29eb6af8-1b0e-4781-b328-39c7bf8570c7",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\ui\\squareGreen.png": {
+    "time": 1653450841000,
+    "uuid": "d571063e-7353-4fe7-8c26-ebde7cbe3d39",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1653450841000,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1653450841000,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1653450841000,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1653450841000,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1653450841000,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1653450841000,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1653450841000,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1653450841000,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1653450841000,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1653450841000,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1653450841000,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1653450841000,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1653450841000,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1653450841000,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1653450841000,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1653450841000,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1653450841000,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1653450841000,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1653450841000,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1653450841000,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\materials\\coin.mtl.meta": {
+    "time": 1668146708441.4553
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\materials\\straitFloor.mtl.meta": {
+    "time": 1668146708440.458
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\animations\\coin_rot.anim.meta": {
+    "time": 1668493441322.27
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\animations\\block_down.anim.meta": {
+    "time": 1668495556933.9043
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\Cocos.prefab.meta": {
+    "time": 1668417433383.0437
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\Coin.prefab.meta": {
+    "time": 1668493034650.802
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\scenes\\Main.scene.meta": {
+    "time": 1668407316418.4148
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\RoadBlock.prefab.meta": {
+    "time": 1668494285365.9631
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\prefabs\\StraitFloor.prefab.meta": {
+    "time": 1668496026892.4253
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\body.mtl.meta": {
+    "time": 1668407316410.4358
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\City-Road-Textures.jpg.meta": {
+    "time": 1668407316428.3887
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\sounds\\jump02.wav.meta": {
+    "time": 1668146708482.3435
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\sounds\\coin02.wav.meta": {
+    "time": 1668146708481.347
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos.zip.meta": {
+    "time": 1668146708491.3193
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1668407316447.337
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1668407316449.332
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1668407316485.5503
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1668407316431.38
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02_baseColor.png.meta": {
+    "time": 1668407316460.6172
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1668146708570.1055
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1668407316462.612
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1668146708539.1892
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1668407316482.5586
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1668407316717.4373
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1668407316714.4456
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1668407316453.667
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1668146708758.5913
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\helmet.mtl.meta": {
+    "time": 1668407316478.5698
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1668146708764.5742
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\test\\cocos_anim_jump.bin.meta": {
+    "time": 1668146708856.3245
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\coin\\coin.glb.meta": {
+    "time": 1668407316718.4348
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\coin\\coni_paint.png.meta": {
+    "time": 1668407316720.429
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\road-block\\scene.bin.meta": {
+    "time": 1668146708906.1885
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\test\\cocos_anim_jump.gltf.meta": {
+    "time": 1668407317070.493
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_back.tga.meta": {
+    "time": 1668407317107.3943
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_front.tga.meta": {
+    "time": 1668407317109.3901
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_bottom.tga.meta": {
+    "time": 1668407317111.3838
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\license.txt.meta": {
+    "time": 1653450841000
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\mp_drakeq.shader.meta": {
+    "time": 1668146709216.359
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_left.tga.meta": {
+    "time": 1668407317445.4905
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\star.cubemap.meta": {
+    "time": 1668146709361.9614
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_top.tga.meta": {
+    "time": 1668407317456.461
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\readme.txt.meta": {
+    "time": 1653450841000
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_right.tga.meta": {
+    "time": 1668407317464.44
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\ui\\squareGreen.png.meta": {
+    "time": 1668407317469.4268
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\textures\\ui\\metalPanel_green.png.meta": {
+    "time": 1668407317454.4817
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1668146709656.1597
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\road-block\\scene.gltf.meta": {
+    "time": 1668407320163.8352
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1668146709678.1
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1668146709807.747
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1668407318456.0283
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1668146710369.7395
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1668407318454.0337
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1668146710745.229
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1668407318794.1243
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1668146711179.0466
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1668407318582.6887
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1668146711823.7974
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1668407320032.1682
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1668146711936.4905
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1668146712006.2996
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1668407319920.466
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1668407320033.1653
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1668146713371.0723
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1668407320161.8215
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1668407320644.531
+  },
+  "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1668407320780.1685
   }
 }

@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6692.389100000262,
+      "mTimestamp": 6700.153699994087,
       "chunkId": "e61435655889656fbe773d7a4ee2a888f9b2a9ff",
       "imports": [
         {
@@ -577,11 +577,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 3818853.3140000105,
+      "mTimestamp": 12944.896700024605,
       "chunkId": "52e8a9e14f500a509b526e3a9f1d96810f76ca10",
       "imports": [
         {
-          "value": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts",
+          "value": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -590,12 +590,12 @@
             },
             "end": {
               "line": 4,
-              "column": 86
+              "column": 99
             }
           }
         },
         {
-          "value": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts",
+          "value": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -604,12 +604,12 @@
             },
             "end": {
               "line": 5,
-              "column": 89
+              "column": 102
             }
           }
         },
         {
-          "value": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts",
+          "value": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -618,12 +618,12 @@
             },
             "end": {
               "line": 6,
-              "column": 85
+              "column": 98
             }
           }
         },
         {
-          "value": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts",
+          "value": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -632,12 +632,12 @@
             },
             "end": {
               "line": 7,
-              "column": 85
+              "column": 98
             }
           }
         },
         {
-          "value": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts",
+          "value": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -646,7 +646,7 @@
             },
             "end": {
               "line": 8,
-              "column": 90
+              "column": 103
             }
           }
         }
@@ -656,35 +656,35 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts"
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts"
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts"
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts"
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts"
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts"
           },
           "messages": []
         }
@@ -775,7 +775,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1669081170276,
+      "mTimestamp": 1669358325613,
       "chunkId": "cceb4f795e6e637cc67c120b5b44ef3a584b486a",
       "imports": [],
       "type": "esm",
@@ -1039,6 +1039,353 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts": {
+      "mTimestamp": {
+        "mtime": 1669081216319.8591,
+        "uuid": "e7b007d5-826a-4920-96c1-bf80e52bcad5"
+      },
+      "chunkId": "e0c6d301a855f713b90a80c3c3ba747a529275c6",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 59
+            },
+            "end": {
+              "line": 1,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts": {
+      "mTimestamp": {
+        "mtime": 1669082689109.7612,
+        "uuid": "bb357c3f-e1ce-4a70-a2e6-0d5405f36785"
+      },
+      "chunkId": "f52d0f410266789aeb9bba7830abcd305b71f4e4",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 78
+            },
+            "end": {
+              "line": 1,
+              "column": 82
+            }
+          }
+        },
+        {
+          "value": "./PlayerController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 33
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts": {
+      "mTimestamp": {
+        "mtime": 1669084638846.9038,
+        "uuid": "065391a3-d452-4469-8543-14cd8f350022"
+      },
+      "chunkId": "7abbbc0bbf0317bdf8d8a52fc16bf13b45f51af0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 186
+            },
+            "end": {
+              "line": 1,
+              "column": 190
+            }
+          }
+        },
+        {
+          "value": "./GameDefines",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 37
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts": {
+      "mTimestamp": {
+        "mtime": 1653450841000,
+        "uuid": "1c463122-5ee3-438c-8eda-b4a6bc566767"
+      },
+      "chunkId": "df05fdca4cb50cef779715ff071dae5682b3a3c2",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1669080935130.1235,
+        "uuid": "87ac575c-8eed-4b61-89bc-8c2d0821ec6f"
+      },
+      "chunkId": "204c79468093c9ffb07afcc2d082b9668c9a421f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 123
+            },
+            "end": {
+              "line": 1,
+              "column": 127
+            }
+          }
+        },
+        {
+          "value": "./PlayerController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "./GameDefines",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 38
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts"
           },
           "messages": []
         }

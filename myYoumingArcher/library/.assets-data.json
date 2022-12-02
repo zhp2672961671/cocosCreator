@@ -1,0 +1,610 @@
+{
+  "abdc620a-7dfa-415d-a6c6-b085a8eace16": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "beb9f67b-871c-4a5e-aeb1-56086ff534f9": {
+    "url": "db://assets/scene/login.scene",
+    "value": {}
+  },
+  "3bfc0170-23f7-47ac-94d7-dea1415f463f": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "9fc5f408-fa13-4a36-916a-eedfdffd8218": {
+    "url": "db://assets/script/login.ts",
+    "value": {}
+  },
+  "05de607c-61fa-4fd2-8e71-30ac47351dc7": {
+    "url": "db://assets/scene/login.scene",
+    "value": {
+      "depends": [
+        "05de607c-61fa-4fd2-8e71-30ac47351dc7",
+        "cf4af6e3-cd64-4610-9b87-8349cd1e7c42@f9941",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@0427d",
+        "8d2cc2cd-8284-4a49-8fdf-074a6d9f2e4b",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@0427d",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@f36e5",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@e9c56",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@07ce6",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@13902",
+        "8d2cc2cd-8284-4a49-8fdf-074a6d9f2e4b",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@088bc",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@bc05e",
+        "cf4af6e3-cd64-4610-9b87-8349cd1e7c42@f9941",
+        "a89437e8-4eb6-43bd-bcca-98616e5ccfa0",
+        "a89437e8-4eb6-43bd-bcca-98616e5ccfa0",
+        "dff84119-a60c-4366-b71f-9e237002c0ff@6c48a",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "b85aa559-5de1-49b6-a3fe-0fef6fe95e8f": {
+    "url": "db://assets/script/framework",
+    "value": {}
+  },
+  "b08f0f24-88e9-4403-b7ba-a9459aec09c0": {
+    "url": "db://assets/script/framework/constant.ts",
+    "value": {}
+  },
+  "4b724288-3182-46b8-86be-534279fb4c1d": {
+    "url": "db://assets/res",
+    "value": {}
+  },
+  "5527e4a0-3f30-4123-9d9f-55a3803cd765": {
+    "url": "db://assets/res/effect",
+    "value": {}
+  },
+  "09b6ee13-1b76-4234-b90d-d148a308a1b6": {
+    "url": "db://assets/res/effect/gameStart",
+    "value": {}
+  },
+  "cf4af6e3-cd64-4610-9b87-8349cd1e7c42": {
+    "url": "db://assets/res/effect/gameStart/white.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf4af6e3-cd64-4610-9b87-8349cd1e7c42@6c48a": {
+    "url": "db://assets/res/effect/gameStart/white.png@6c48a",
+    "value": {
+      "depends": [
+        "cf4af6e3-cd64-4610-9b87-8349cd1e7c42"
+      ]
+    }
+  },
+  "cf4af6e3-cd64-4610-9b87-8349cd1e7c42@f9941": {
+    "url": "db://assets/res/effect/gameStart/white.png@f9941",
+    "value": {
+      "depends": [
+        "cf4af6e3-cd64-4610-9b87-8349cd1e7c42@6c48a"
+      ]
+    }
+  },
+  "dff84119-a60c-4366-b71f-9e237002c0ff": {
+    "url": "db://assets/res/effect/gameStart/glow_blue3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dff84119-a60c-4366-b71f-9e237002c0ff@6c48a": {
+    "url": "db://assets/res/effect/gameStart/glow_blue3.png@6c48a",
+    "value": {
+      "depends": [
+        "dff84119-a60c-4366-b71f-9e237002c0ff"
+      ]
+    }
+  },
+  "98d29659-08b7-4a12-9ee4-26c65c245fbf": {
+    "url": "db://assets/res/effect/gameStart/gameStart.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a": {
+    "url": "db://assets/res/effect/gameStart/gameStart.png@6c48a",
+    "value": {
+      "depends": [
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee@bc05e",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@70e08",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@4fe23",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@a88ec",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@140ae",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@413dd",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@21ad8",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@ce133",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@9269f",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@52b34",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@e6005",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@01225",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@90118",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@d569b",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@cd44d",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@088bc",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@afc7d",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@1ece5",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@07ce6",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@afc4b",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@72c33",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@3716f",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@a7a2b",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@29970",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@11a98",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@a424d",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@ffa88",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@0427d",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@13902",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@e9c56",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@f36e5",
+        "9c0746b4-6c62-4c91-8d77-00791488deee@d490c"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@13902": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@13902",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@29970": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@29970",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@90118": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@90118",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@bc05e": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@bc05e",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@70e08": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@70e08",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@4fe23": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@4fe23",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@a88ec": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@a88ec",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@140ae": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@140ae",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@413dd": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@413dd",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@21ad8": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@21ad8",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@ce133": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@ce133",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@9269f": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@9269f",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@52b34": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@52b34",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@e6005": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@e6005",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@01225": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@01225",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@d569b": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@d569b",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@cd44d": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@cd44d",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@088bc": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@088bc",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@afc7d": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@afc7d",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@1ece5": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@1ece5",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@07ce6": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@07ce6",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@afc4b": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@afc4b",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@72c33": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@72c33",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@3716f": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@3716f",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@a7a2b": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@a7a2b",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@11a98": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@11a98",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@a424d": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@a424d",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@ffa88": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@ffa88",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@0427d": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@0427d",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@e9c56": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@e9c56",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@f36e5": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@f36e5",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "9c0746b4-6c62-4c91-8d77-00791488deee@d490c": {
+    "url": "db://assets/res/effect/gameStart/gameStart.plist@d490c",
+    "value": {
+      "depends": [
+        "9c0746b4-6c62-4c91-8d77-00791488deee",
+        "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a"
+      ]
+    }
+  },
+  "8d2cc2cd-8284-4a49-8fdf-074a6d9f2e4b": {
+    "url": "db://assets/res/effect/gameStart/add.mtl",
+    "value": {
+      "depends": [
+        "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+      ]
+    }
+  },
+  "a89437e8-4eb6-43bd-bcca-98616e5ccfa0": {
+    "url": "db://assets/res/effect/gameStart/glow_blue3.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "dff84119-a60c-4366-b71f-9e237002c0ff@6c48a"
+      ]
+    }
+  },
+  "addce05f-68d0-478a-82be-2a27247a3497": {
+    "url": "db://assets/scene/fight.scene",
+    "value": {
+      "depends": [
+        "addce05f-68d0-478a-82be-2a27247a3497",
+        "116fb9b2-2c6b-490f-9187-9dee2361b4d8",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "e3ff7b59-b1db-4ab6-a71e-e14755cb0212",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "17eca6eb-d97e-494d-a671-ef5f0342994b",
+        "17eca6eb-d97e-494d-a671-ef5f0342994b",
+        "0fa77c39-a759-40aa-972e-00f178552b58@6c48a",
+        "6f13f275-076a-4f34-8844-7f68aaacb042",
+        "6f13f275-076a-4f34-8844-7f68aaacb042",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "633b3044-669d-43ae-8f19-89f6ce0fb1b9": {
+    "url": "db://assets/res/material",
+    "value": {}
+  },
+  "b720c8b8-ac5d-4a56-8721-ba1e94e2f450": {
+    "url": "db://assets/res/material/wall1.mtl",
+    "value": {}
+  },
+  "b867779f-1cbb-4518-a5df-f4572818a01a": {
+    "url": "db://assets/res/material/add.mtl",
+    "value": {}
+  },
+  "116fb9b2-2c6b-490f-9187-9dee2361b4d8": {
+    "url": "db://assets/res/material/wall.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "10a64224-9a68-471e-ba49-81726bb0ac6f": {
+    "url": "db://assets/res/material/physics-material.pmtl",
+    "value": {}
+  },
+  "fd2792a4-896c-4501-a7da-d8137db6603c": {
+    "url": "db://assets/res/material/material.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "af1144f2-61fd-4ec7-a654-81b85fce9d2a": {
+    "url": "db://assets/res/effect/cloud",
+    "value": {}
+  },
+  "e3ff7b59-b1db-4ab6-a71e-e14755cb0212": {
+    "url": "db://assets/res/effect/cloud/sky01.mtl",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "88a891bb-79bc-4c06-a51e-161a065618ea@6c48a"
+      ]
+    }
+  },
+  "88a891bb-79bc-4c06-a51e-161a065618ea": {
+    "url": "db://assets/res/effect/cloud/sky01.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "88a891bb-79bc-4c06-a51e-161a065618ea@6c48a": {
+    "url": "db://assets/res/effect/cloud/sky01.png@6c48a",
+    "value": {
+      "depends": [
+        "88a891bb-79bc-4c06-a51e-161a065618ea"
+      ]
+    }
+  },
+  "15d213cd-9e19-4ed4-9817-24952cf05e28": {
+    "url": "db://assets/res/effect/texture",
+    "value": {}
+  },
+  "17eca6eb-d97e-494d-a671-ef5f0342994b": {
+    "url": "db://assets/res/effect/texture/Fog01.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "0fa77c39-a759-40aa-972e-00f178552b58@6c48a"
+      ]
+    }
+  },
+  "0fa77c39-a759-40aa-972e-00f178552b58": {
+    "url": "db://assets/res/effect/texture/Fog01.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0fa77c39-a759-40aa-972e-00f178552b58@6c48a": {
+    "url": "db://assets/res/effect/texture/Fog01.png@6c48a",
+    "value": {
+      "depends": [
+        "0fa77c39-a759-40aa-972e-00f178552b58"
+      ]
+    }
+  },
+  "2301e727-70b3-409f-8b11-ac6a39937f08": {
+    "url": "db://assets/res/effect/animation",
+    "value": {}
+  },
+  "6f13f275-076a-4f34-8844-7f68aaacb042": {
+    "url": "db://assets/res/effect/animation/cloud.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "28bbee5d-dcb3-4f9d-8724-adb9aa7f3324": {
+    "url": "db://assets/script/folder",
+    "value": {}
+  },
+  "e6cdfbca-a766-456a-9b55-b4833a9350b2": {
+    "url": "db://assets/script/main.ts",
+    "value": {}
+  },
+  "5123890b-1801-4188-ba33-de0c5cc31b47": {
+    "url": "db://assets/script/framework/util.ts",
+    "value": {}
+  },
+  "56893e3c-6d22-46c9-8a35-d9619ae9e789": {
+    "url": "db://assets/script/framework/storageManager.ts",
+    "value": {}
+  },
+  "5e2ec645-1091-441e-80a0-c7a9575581c1": {
+    "url": "db://assets/script/framework/audioManager.ts",
+    "value": {}
+  },
+  "a40a4a46-47a9-42aa-8d1c-a11d56e24025": {
+    "url": "db://assets/script/framework/lodash.ts",
+    "value": {}
+  },
+  "7844ed5b-3b06-4afb-b24c-62310d414e6f": {
+    "url": "db://assets/script/framework/resourceUtil.ts",
+    "value": {}
+  },
+  "12fac499-8454-4621-86bb-cb188b5433a9": {
+    "url": "db://assets/script/framework/localConfig.ts",
+    "value": {}
+  },
+  "d755406e-aa72-4b00-a89b-c15516b5ee4f": {
+    "url": "db://assets/script/framework/csvManager.ts",
+    "value": {}
+  }
+}

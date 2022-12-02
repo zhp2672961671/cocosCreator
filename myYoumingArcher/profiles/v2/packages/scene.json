@@ -1,0 +1,135 @@
+{
+  "gizmos-infos": {
+    "is2D": false,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "isIconGizmo3D": false,
+    "iconGizmoSize": 2,
+    "isGridVisible": true
+  },
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        },
+        "ParticleSystem": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  },
+  "camera": {
+    "fov": 45,
+    "far": 10000,
+    "near": 0.01,
+    "color": [
+      48,
+      48,
+      48,
+      255
+    ],
+    "wheelSpeed": 0.01,
+    "wanderSpeed": 10,
+    "enableAcceleration": true,
+    "far2D": 10000,
+    "near2D": 1,
+    "wheelSpeed2D": 6,
+    "size": "__default_design__"
+  },
+  "camera-infos": {
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": 50.887393908287045,
+        "y": 50.88739390828701,
+        "z": 50.88739390828702
+      },
+      "rotation": {
+        "x": -0.27984814233312133,
+        "y": 0.3647051996310009,
+        "z": 0.11591689595929514,
+        "w": 0.8804762392171493
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "beb9f67b-871c-4a5e-aeb1-56086ff534f9": {
+      "position": {
+        "x": 229.7486493178608,
+        "y": 229.74864931786078,
+        "z": 229.74864931786075
+      },
+      "rotation": {
+        "x": -0.27984814233312133,
+        "y": 0.3647051996310009,
+        "z": 0.11591689595929514,
+        "w": 0.8804762392171493
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "05de607c-61fa-4fd2-8e71-30ac47351dc7": {
+      "position": {
+        "x": 365.7798615356704,
+        "y": 663.4563392984611,
+        "z": 2031.1315621985013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 365.7798615356704,
+        "y": 663.4563392984611,
+        "z": 0
+      }
+    },
+    "addce05f-68d0-478a-82be-2a27247a3497": {
+      "position": {
+        "x": 44.6113746623546,
+        "y": 27.47158934118233,
+        "z": 117.52393340884866
+      },
+      "rotation": {
+        "x": -0.10308706487729752,
+        "y": 0.0571323235593471,
+        "z": 0.00593104687820503,
+        "w": 0.9930124759249205
+      },
+      "viewCenter": {
+        "x": 29.6,
+        "y": 0,
+        "z": -12.5
+      }
+    }
+  },
+  "camera-uuids": [
+    "addce05f-68d0-478a-82be-2a27247a3497"
+  ],
+  "scene": {
+    "native": false
+  }
+}

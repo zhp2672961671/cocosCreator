@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ranshao1",
+    "atlas": "9c0746b4-6c62-4c91-8d77-00791488deee",
+    "rect": {
+      "x": 572,
+      "y": 590,
+      "width": 150,
+      "height": 112
+    },
+    "offset": {
+      "x": 0,
+      "y": -34
+    },
+    "originalSize": {
+      "width": 150,
+      "height": 180
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "98d29659-08b7-4a12-9ee4-26c65c245fbf@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

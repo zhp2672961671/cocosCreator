@@ -1,11 +1,11 @@
-debug: Tue, 22 Nov 2022 01:39:36 GMT
-debug: Project: E:\myCocosGame\mySimpleGame
+debug: Fri, 25 Nov 2022 06:38:52 GMT
+debug: Project: E:\myCocosGame\cocosCreator\mySimpleGame
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 1.038100004196167ms.
+debug: Loading cache costs 2.0860999822616577ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -14,7 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 0.9516000002622604ms.
+debug: Loading cache costs 18.853900015354156ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -28,25 +28,25 @@ debug: Reset databases. Enumerated domains: [
   },
   {
     "root": "db://assets/",
-    "physical": "E:\\myCocosGame\\mySimpleGame\\assets"
+    "physical": "E:\\myCocosGame\\cocosCreator\\mySimpleGame\\assets"
   }
 ]
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc",
     "db://internal/": "file:///D:/CocosDashboard/resources/.editors/Creator/3.6.2/resources/resources/3d/engine/editor/assets/",
-    "db://assets/": "file:///E:/myCocosGame/mySimpleGame/assets/"
+    "db://assets/": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/"
   }
 }
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc",
     "db://internal/": "file:///D:/CocosDashboard/resources/.editors/Creator/3.6.2/resources/resources/3d/engine/editor/assets/",
-    "db://assets/": "file:///E:/myCocosGame/mySimpleGame/assets/"
+    "db://assets/": "file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/"
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 4.427499994635582ms.
+debug: Fetch asset-db cost: 4.99889999628067ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 5
 Feature changed: false
@@ -79,36 +79,41 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 02:39:49 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:03:38 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Mon Nov 21 2022 14:57:08 GMT+0800 (中国标准时间), Current mtime: Tue Nov 22 2022 09:39:30 GMT+0800 (中国标准时间)
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Nov 22 2022 09:39:30 GMT+0800 (中国标准时间), Current mtime: Fri Nov 25 2022 14:38:45 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve ./PlayerController from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts as cce:/internal/x/cc.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
-debug: Resolve ./PlayerController from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 254.69269999861717ms.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve ./GameDefines from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts as cce:/internal/x/cc.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Resolve ./GameDefines from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Target(editor) ends with cost 599.2502999901772ms.
 debug: Target(preview) build started.
 debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
@@ -139,412 +144,61 @@ debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external depe
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
 debug: Resolve cce:/internal/x/cc-fu/xr from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/xr.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 02:39:49 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:03:38 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/code-quality/cr.mjs.
-debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Mon Nov 21 2022 14:57:08 GMT+0800 (中国标准时间), Current mtime: Tue Nov 22 2022 09:39:30 GMT+0800 (中国标准时间)
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Nov 22 2022 09:39:30 GMT+0800 (中国标准时间), Current mtime: Fri Nov 25 2022 14:38:45 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/code-quality/cr.mjs
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve ./PlayerController from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts as cce:/internal/x/cc.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
-debug: Resolve ./PlayerController from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 95.99689999222755ms.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve ./GameDefines from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts as cce:/internal/x/cc.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
+debug: Inspect file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Resolve ./GameDefines from file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Target(preview) ends with cost 349.46240001916885ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 13.82030001282692ms.
+debug: Fetch asset-db cost: 102.56800001859665ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 5
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:12 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 27.551699995994568ms.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Target(editor) ends with cost 29.448799967765808ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:12 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 23.927000001072884ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:52 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts. Last mtime: Tue Nov 22 2022 09:36:55 GMT+0800 (中国标准时间)@e7b007d5-826a-4920-96c1-bf80e52bcad5, Current mtime: Tue Nov 22 2022 09:40:16 GMT+0800 (中国标准时间)@e7b007d5-826a-4920-96c1-bf80e52bcad5
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 148.34819999337196ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:53 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts. Last mtime: Tue Nov 22 2022 09:36:55 GMT+0800 (中国标准时间)@e7b007d5-826a-4920-96c1-bf80e52bcad5, Current mtime: Tue Nov 22 2022 09:40:16 GMT+0800 (中国标准时间)@e7b007d5-826a-4920-96c1-bf80e52bcad5
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts as cce:/internal/x/cc.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 95.89919999241829ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:07:58 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Mon Nov 21 2022 17:46:01 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:47:23 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 182.74540001153946ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:53 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:07:58 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Mon Nov 21 2022 17:46:01 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:47:23 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 141.23669999837875ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:58 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:12:13 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:47:23 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:51:40 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 95.23950000107288ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:58 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:12:13 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:47:23 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:51:40 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 115.45930001139641ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:12:13 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:05 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:51:40 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:52:31 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 101.14989998936653ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:12:13 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:05 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:51:40 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:52:31 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 214.37870000302792ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:37 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:52:31 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:53:04 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 100.41410000622272ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:37 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:52:31 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 09:53:04 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 102.83090001344681ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:37 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:21:53 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:53:04 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:01:18 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 79.66329999268055ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:37 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:21:53 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 09:53:04 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:01:18 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 93.99430000782013ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:21:53 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:25:22 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts. Last mtime: Mon Nov 21 2022 17:43:47 GMT+0800 (中国标准时间)@bb357c3f-e1ce-4a70-a2e6-0d5405f36785, Current mtime: Tue Nov 22 2022 10:04:49 GMT+0800 (中国标准时间)@bb357c3f-e1ce-4a70-a2e6-0d5405f36785
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve ./PlayerController from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 48.8188000023365ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:21:53 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:25:22 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts. Last mtime: Mon Nov 21 2022 17:43:47 GMT+0800 (中国标准时间)@bb357c3f-e1ce-4a70-a2e6-0d5405f36785, Current mtime: Tue Nov 22 2022 10:04:49 GMT+0800 (中国标准时间)@bb357c3f-e1ce-4a70-a2e6-0d5405f36785
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as cce:/internal/x/cc.
-debug: Resolve ./PlayerController from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 64.20489999651909ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:25:22 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:27:14 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 10:01:18 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:06:41 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 88.12849999964237ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:25:22 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:27:14 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 10:01:18 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:06:41 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 162.27040000259876ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:27:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:37:41 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 10:06:41 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:12:12 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 202.46090000867844ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:27:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:37:41 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 10:06:41 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:12:12 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 150.78640000522137ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:37:41 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:03:38 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 10:12:12 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:37:18 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(editor) ends with cost 89.29129999876022ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:37:41 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 09:03:38 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
-debug: Detected change: file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts. Last mtime: Tue Nov 22 2022 10:12:12 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022, Current mtime: Tue Nov 22 2022 10:37:18 GMT+0800 (中国标准时间)@065391a3-d452-4469-8543-14cd8f350022
-debug: Inspect file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts
-debug: Resolve cce:/internal/code-quality/cr.mjs from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/code-quality/cr.mjs.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as cce:/internal/x/cc.
-debug: Resolve ./GameDefines from file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
-debug: Resolve file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
-debug: Target(preview) ends with cost 111.03190000355244ms.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/CameraFollow.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/ColliderChecker.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameDefines.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/GameManager.ts.
+debug: Resolve file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///E:/myCocosGame/cocosCreator/mySimpleGame/assets/simple-run/scripts/PlayerController.ts.
+debug: Target(preview) ends with cost 52.371999979019165ms.
