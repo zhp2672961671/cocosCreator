@@ -4,5 +4,47 @@
       "width": 720,
       "height": 1280
     }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "player"
+      },
+      {
+        "index": 2,
+        "name": "colliderItem"
+      },
+      {
+        "index": 3,
+        "name": "monster"
+      },
+      {
+        "index": 4,
+        "name": "reward"
+      },
+      {
+        "index": 5,
+        "name": "monsterSkillCollider"
+      },
+      {
+        "index": 6,
+        "name": "obstacle"
+      },
+      {
+        "index": 7,
+        "name": "arrow"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 91,
+      "1": 101,
+      "2": 74,
+      "3": 205,
+      "4": 65,
+      "5": 66,
+      "6": 191,
+      "7": 72
+    }
   }
 }

@@ -1,1 +1,96 @@
-{}
+{
+  "./chunks/e2/e2ff7af1bcc8fc445533ebc22c6d335b5b817166.js": {
+    "__unresolved_11": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/energyBall\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_12": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/fireBall\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_13": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/dispersionSurround\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_14": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/dispersion\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_15": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/fireBallBig\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_16": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/tornado\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_17": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/laser\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_18": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./characterRigid\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    },
+    "__unresolved_9": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterModel\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    }
+  },
+  "./chunks/09/09eff7197c494d3390430b0a92aaa83c838f2786.js": {
+    "__unresolved_3": {
+      "error": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/mapManager.ts 为起点找不到模块 \"./boss\"",
+      "messages": [
+        {
+          "level": "warn",
+          "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+        }
+      ]
+    }
+  }
+}

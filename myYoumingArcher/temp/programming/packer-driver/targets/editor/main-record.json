@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6891.436699999962,
+      "mTimestamp": 9011.600699990988,
       "chunkId": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
       "imports": [
         {
@@ -556,11 +556,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 7521.564199999906,
-      "chunkId": "7176464a031bb56808bece8fa9be69582126f600",
+      "mTimestamp": 5148977.277199984,
+      "chunkId": "87adfa34b142e54211529667b3a4ed21ea1a32f9",
       "imports": [
         {
-          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts",
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameCamera.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -569,133 +569,371 @@
             },
             "end": {
               "line": 5,
-              "column": 128
+              "column": 122
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 138
+            },
+            "end": {
+              "line": 5,
+              "column": 226
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/mapManager.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 242
+            },
+            "end": {
+              "line": 5,
+              "column": 329
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 345
+            },
+            "end": {
+              "line": 5,
+              "column": 429
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/reward.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 445
+            },
+            "end": {
+              "line": 5,
+              "column": 528
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningCircle.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 544
+            },
+            "end": {
+              "line": 5,
+              "column": 647
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningLine.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 663
+            },
+            "end": {
+              "line": 5,
+              "column": 764
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningStrip.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 780
+            },
+            "end": {
+              "line": 5,
+              "column": 882
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 898
+            },
+            "end": {
+              "line": 5,
+              "column": 991
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1007
+            },
+            "end": {
+              "line": 5,
+              "column": 1099
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts",
-          "resolved": "__unresolved_1",
+          "resolved": "__unresolved_10",
           "loc": {
             "start": {
               "line": 5,
-              "column": 144
+              "column": 1115
             },
             "end": {
               "line": 5,
-              "column": 233
+              "column": 1204
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/csvManager.ts",
-          "resolved": "__unresolved_2",
+          "resolved": "__unresolved_11",
           "loc": {
             "start": {
               "line": 5,
-              "column": 249
+              "column": 1220
             },
             "end": {
               "line": 5,
-              "column": 340
+              "column": 1311
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1327
+            },
+            "end": {
+              "line": 5,
+              "column": 1421
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts",
-          "resolved": "__unresolved_3",
+          "resolved": "__unresolved_13",
           "loc": {
             "start": {
               "line": 5,
-              "column": 356
+              "column": 1437
             },
             "end": {
               "line": 5,
-              "column": 448
+              "column": 1529
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/lodash.ts",
-          "resolved": "__unresolved_4",
+          "resolved": "__unresolved_14",
           "loc": {
             "start": {
               "line": 5,
-              "column": 464
+              "column": 1545
             },
             "end": {
               "line": 5,
-              "column": 551
+              "column": 1632
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1648
+            },
+            "end": {
+              "line": 5,
+              "column": 1739
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1755
+            },
+            "end": {
+              "line": 5,
+              "column": 1847
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts",
-          "resolved": "__unresolved_5",
+          "resolved": "__unresolved_17",
           "loc": {
             "start": {
               "line": 5,
-              "column": 567
+              "column": 1863
             },
             "end": {
               "line": 5,
-              "column": 660
+              "column": 1956
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/sdkUtil.ts",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1972
+            },
+            "end": {
+              "line": 5,
+              "column": 2060
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/storageManager.ts",
-          "resolved": "__unresolved_6",
+          "resolved": "__unresolved_19",
           "loc": {
             "start": {
               "line": 5,
-              "column": 676
+              "column": 2076
             },
             "end": {
               "line": 5,
-              "column": 771
+              "column": 2171
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2187
+            },
+            "end": {
+              "line": 5,
+              "column": 2277
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/util.ts",
-          "resolved": "__unresolved_7",
+          "resolved": "__unresolved_21",
           "loc": {
             "start": {
               "line": 5,
-              "column": 787
+              "column": 2293
             },
             "end": {
               "line": 5,
-              "column": 872
+              "column": 2378
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/login.ts",
-          "resolved": "__unresolved_8",
+          "resolved": "__unresolved_22",
           "loc": {
             "start": {
               "line": 5,
-              "column": 888
+              "column": 2394
             },
             "end": {
               "line": 5,
-              "column": 964
+              "column": 2470
             }
           }
         },
         {
           "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/main.ts",
-          "resolved": "__unresolved_9",
+          "resolved": "__unresolved_23",
           "loc": {
             "start": {
               "line": 5,
-              "column": 980
+              "column": 2486
             },
             "end": {
               "line": 5,
-              "column": 1055
+              "column": 2561
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/home/homePanel.ts",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2577
+            },
+            "end": {
+              "line": 5,
+              "column": 2665
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/loading/loadingPanel.ts",
+          "resolved": "__unresolved_25",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2681
+            },
+            "end": {
+              "line": 5,
+              "column": 2775
+            }
+          }
+        },
+        {
+          "value": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/setting/settingPanel.ts",
+          "resolved": "__unresolved_26",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2791
+            },
+            "end": {
+              "line": 5,
+              "column": 2885
             }
           }
         }
@@ -705,7 +943,70 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameCamera.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/mapManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/reward.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningCircle.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningLine.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningStrip.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
           },
           "messages": []
         },
@@ -726,6 +1027,13 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts"
           },
           "messages": []
@@ -740,6 +1048,20 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
           },
           "messages": []
@@ -747,7 +1069,21 @@
         {
           "resolved": {
             "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/sdkUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
             "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/storageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
           },
           "messages": []
         },
@@ -771,15 +1107,36 @@
             "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/main.ts"
           },
           "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/home/homePanel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/loading/loadingPanel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/setting/settingPanel.ts"
+          },
+          "messages": []
         }
       ]
     },
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/login.ts": {
       "mTimestamp": {
-        "mtime": 1669692372438.7312,
+        "mtime": 1671008852200.7874,
         "uuid": "9fc5f408-fa13-4a36-916a-eedfdffd8218"
       },
-      "chunkId": "ee2967da4e5fa3b2648410e5d44fdf882fdb9b93",
+      "chunkId": "7feef0979731c8fcabef3d6d5986b9dc4bf0e3ba",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -859,7 +1216,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1669858214258,
+      "mTimestamp": 1671169497047,
       "chunkId": "be027f973d8ff1c6fe3dcfebbc993118a793ec1b",
       "imports": [],
       "type": "esm",
@@ -889,27 +1246,157 @@
     },
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/main.ts": {
       "mTimestamp": {
-        "mtime": 1669692850207.3076,
+        "mtime": 1671008859588.9944,
         "uuid": "e6cdfbca-a766-456a-9b55-b4833a9350b2"
       },
-      "chunkId": "a779a4e9b616b15ff60b796a416e1f188862d544",
+      "chunkId": "90d46a3d735e54237278226a8124a3995e36e74c",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
         {
           "value": "cc"
+        },
+        {
+          "value": "./framework/audioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 29
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./fight/gameManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./framework/constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 47
+            }
+          }
         },
         {
           "value": "cc",
           "loc": {
             "start": {
-              "line": 1,
-              "column": 44
+              "line": 4,
+              "column": 86
             },
             "end": {
-              "line": 1,
-              "column": 48
+              "line": 4,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "./framework/playerData",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "./framework/storageManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 31
+            },
+            "end": {
+              "line": 6,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "./framework/localConfig",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 28
+            },
+            "end": {
+              "line": 7,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "./framework/util",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 21
+            },
+            "end": {
+              "line": 8,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "./framework/sdkUtil",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 24
+            },
+            "end": {
+              "line": 9,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "./framework/uiManager",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 26
+            },
+            "end": {
+              "line": 10,
+              "column": 49
             }
           }
         }
@@ -919,7 +1406,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "cce:/internal/x/cc"
+            "url": "cce:/internal/code-quality/cr.mjs"
           },
           "messages": []
         },
@@ -934,6 +1421,76 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/storageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/util.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/sdkUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
           },
           "messages": []
         }
@@ -1307,10 +1864,10 @@
     },
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts": {
       "mTimestamp": {
-        "mtime": 1645499391000,
+        "mtime": 1671002403283.7517,
         "uuid": "12fac499-8454-4621-86bb-cb188b5433a9"
       },
-      "chunkId": "b4c23d98a0ed2e4ed29e2ca95768508ebbf8b8ea",
+      "chunkId": "f6c68e9a016e848f07912e16c353188de438b878",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1412,10 +1969,10 @@
     },
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/csvManager.ts": {
       "mTimestamp": {
-        "mtime": 1627313050000,
+        "mtime": 1669879016489.7476,
         "uuid": "d755406e-aa72-4b00-a89b-c15516b5ee4f"
       },
-      "chunkId": "680e4c73b33d135abac01f01ebb6d8125e99833e",
+      "chunkId": "e995ddf26149da221b362faf1ecfabd5e6e0544f",
       "imports": [
         {
           "value": "cc"
@@ -1457,6 +2014,2794 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/sdkUtil.ts": {
+      "mTimestamp": {
+        "mtime": 1670559473523.6565,
+        "uuid": "a8753fdf-f1a2-4833-a929-6b65a411207c"
+      },
+      "chunkId": "56c2534a2d3f282ec005aebcf23229c3805aa448",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./playerData",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "./storageManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 31
+            },
+            "end": {
+              "line": 3,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/storageManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "e5927076-94ef-42ea-8e5e-2e0d8d99c281"
+      },
+      "chunkId": "3ac4604c103049cb74ca4b325cdda3c849c02cbe",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./util",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 21
+            },
+            "end": {
+              "line": 1,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 38
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "./constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./localConfig",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 28
+            },
+            "end": {
+              "line": 4,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./storageManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 31
+            },
+            "end": {
+              "line": 5,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./clientEvent",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 28
+            },
+            "end": {
+              "line": 6,
+              "column": 43
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/util.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/storageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts": {
+      "mTimestamp": {
+        "mtime": 1671072982864.8665,
+        "uuid": "e55dbcc1-367d-4d52-b87c-af9ceeb2f099"
+      },
+      "chunkId": "f820c2cc3bac5069d4691870384ea1e0ccc09f4b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 27
+            },
+            "end": {
+              "line": 1,
+              "column": 31
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1671174618289.8943,
+        "uuid": "8e95b2da-3e9b-439e-bc1d-e32be2f13de5"
+      },
+      "chunkId": "08a893618da716f7905ce8952b2887ca1c353d89",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../framework/clientEvent",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./../framework/playerData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./../framework/uiManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 154
+            },
+            "end": {
+              "line": 7,
+              "column": 158
+            }
+          }
+        },
+        {
+          "value": "./gameCamera",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 27
+            },
+            "end": {
+              "line": 8,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "../framework/constant",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 25
+            },
+            "end": {
+              "line": 11,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../framework/localConfig",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 28
+            },
+            "end": {
+              "line": 12,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../framework/audioManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 29
+            },
+            "end": {
+              "line": 14,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameCamera.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/UIManager.ts": {
+      "mTimestamp": {
+        "mtime": 1671003805972.1423,
+        "uuid": "232c8e2e-aec0-4a72-a1f0-e1d03f85097b"
+      },
+      "chunkId": "49bb8c5b65ea7d6594af01e8c1aafa6097d84ba9",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 54
+            },
+            "end": {
+              "line": 2,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "./resourceUtil",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "./constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 25
+            },
+            "end": {
+              "line": 9,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts": {
+      "mTimestamp": {
+        "mtime": 1645601683000,
+        "uuid": "e4ab64f9-ff55-42a8-afd5-9fe51c00334c"
+      },
+      "chunkId": "d7dce7b2f9d75a46823ce4945042975fbd12e0f4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 64
+            },
+            "end": {
+              "line": 1,
+              "column": 68
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts": {
+      "mTimestamp": {
+        "mtime": 1671003805972.1423,
+        "uuid": "232c8e2e-aec0-4a72-a1f0-e1d03f85097b"
+      },
+      "chunkId": "b4ec448315e0d072470618ae34279dc61e38bc76",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 54
+            },
+            "end": {
+              "line": 2,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "./resourceUtil",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "./constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 25
+            },
+            "end": {
+              "line": 9,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/home/homePanel.ts": {
+      "mTimestamp": {
+        "mtime": 1671008330969.927,
+        "uuid": "a832ac66-e9c1-4653-9eec-772053ff0f56"
+      },
+      "chunkId": "06395454340e697b4b76e2f4b92344a0c513adcb",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../../framework/uiManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./../../framework/playerData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 27
+            },
+            "end": {
+              "line": 2,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 71
+            },
+            "end": {
+              "line": 3,
+              "column": 75
+            }
+          }
+        },
+        {
+          "value": "../../framework/clientEvent",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 28
+            },
+            "end": {
+              "line": 4,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../framework/constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../../framework/audioManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 29
+            },
+            "end": {
+              "line": 6,
+              "column": 59
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/setting/settingPanel.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "97ae73e4-d7cf-42c1-ac80-6af6bfa7e021"
+      },
+      "chunkId": "02ff565e848b2b0a6ea41a3a267b263133a06520",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../../framework/uiManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 26
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./../../framework/audioManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 77
+            },
+            "end": {
+              "line": 3,
+              "column": 81
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 44
+            },
+            "end": {
+              "line": 4,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../framework/storageManager",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 31
+            },
+            "end": {
+              "line": 5,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "../../framework/constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 25
+            },
+            "end": {
+              "line": 6,
+              "column": 51
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/storageManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/loading/loadingPanel.ts": {
+      "mTimestamp": {
+        "mtime": 1671072769013.8806,
+        "uuid": "951bdf88-060f-41cf-8dfc-331a533ab1f5"
+      },
+      "chunkId": "00c765b532153bb832963196867f00d759db7dae",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../../framework/constant",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "./../../framework/uiManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 58
+            },
+            "end": {
+              "line": 3,
+              "column": 62
+            }
+          }
+        },
+        {
+          "value": "../../framework/clientEvent",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 28
+            },
+            "end": {
+              "line": 4,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../fight/gameManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameCamera.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "7b36d961-8cf0-402c-9bf5-550f5673b33e"
+      },
+      "chunkId": "774017f0ecc6be77cf2c661029345f6a1658f1a3",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 50
+            },
+            "end": {
+              "line": 1,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/mapManager.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "d3b32c04-1a4e-40f6-9b70-86927a960858"
+      },
+      "chunkId": "3564cfa3a5db00bdda76924b7cf2d3ad7bb7f1dd",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../framework/constant",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./monster",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 24
+            },
+            "end": {
+              "line": 2,
+              "column": 35
+            }
+          }
+        },
+        {
+          "value": "./boss",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 21
+            },
+            "end": {
+              "line": 3,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 49
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../framework/localConfig",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../framework/resourceUtil",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 29
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./gameManager",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 28
+            },
+            "end": {
+              "line": 7,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../framework/clientEvent",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 28
+            },
+            "end": {
+              "line": 8,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../framework/audioManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "../framework/poolManager",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 28
+            },
+            "end": {
+              "line": 10,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/mapManager.ts 为起点找不到模块 \"./boss\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts": {
+      "mTimestamp": {
+        "mtime": 1645706798000,
+        "uuid": "75fe4369-12a3-4c35-9492-8f967dbc39c0"
+      },
+      "chunkId": "f28378c34253c69bc670b32095631aad1a4b0717",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../framework/audioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 29
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "./../framework/util",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 21
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "./../framework/localConfig",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./../framework/effectManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 30
+            },
+            "end": {
+              "line": 4,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "./../framework/uiManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 141
+            },
+            "end": {
+              "line": 6,
+              "column": 145
+            }
+          }
+        },
+        {
+          "value": "../framework/constant",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 25
+            },
+            "end": {
+              "line": 7,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./gameManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 28
+            },
+            "end": {
+              "line": 8,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../framework/clientEvent",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 28
+            },
+            "end": {
+              "line": 10,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./monsterModel",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 29
+            },
+            "end": {
+              "line": 11,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../framework/resourceUtil",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 29
+            },
+            "end": {
+              "line": 12,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/energyBall",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 27
+            },
+            "end": {
+              "line": 13,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/fireBall",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 25
+            },
+            "end": {
+              "line": 14,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/dispersionSurround",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 35
+            },
+            "end": {
+              "line": 15,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/dispersion",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 27
+            },
+            "end": {
+              "line": 16,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/fireBallBig",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 28
+            },
+            "end": {
+              "line": 17,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/tornado",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 24
+            },
+            "end": {
+              "line": 18,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./monsterSkill/laser",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 22
+            },
+            "end": {
+              "line": 19,
+              "column": 44
+            }
+          }
+        },
+        {
+          "value": "./characterRigid",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 31
+            },
+            "end": {
+              "line": 20,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../framework/poolManager",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 28
+            },
+            "end": {
+              "line": 21,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/util.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/uiManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterModel\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/energyBall\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/fireBall\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/dispersionSurround\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/dispersion\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/fireBallBig\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/tornado\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./monsterSkill/laser\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts 为起点找不到模块 \"./characterRigid\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts": {
+      "mTimestamp": {
+        "mtime": 1671087712357.205,
+        "uuid": "554ba46f-7575-4269-965e-5c54afbc0a5e"
+      },
+      "chunkId": "71f4615fd4192ed67e119286ec7889c62c26bc6b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 148
+            },
+            "end": {
+              "line": 1,
+              "column": 152
+            }
+          }
+        },
+        {
+          "value": "./poolManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "./resourceUtil",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../fight/warningSkill/warningCircle",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 30
+            },
+            "end": {
+              "line": 4,
+              "column": 67
+            }
+          }
+        },
+        {
+          "value": "../fight/reward",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 23
+            },
+            "end": {
+              "line": 5,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "../fight/warningSkill/warningStrip",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 29
+            },
+            "end": {
+              "line": 6,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "../fight/warningSkill/warningLine",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 28
+            },
+            "end": {
+              "line": 7,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningCircle.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/reward.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningStrip.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningLine.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningCircle.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "e8221e16-d5eb-4dbe-8abc-e9a7bfe8d325"
+      },
+      "chunkId": "99de663ce21a96fce3d3e80cc2ac6c40cf03cf7e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../gameManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 28
+            },
+            "end": {
+              "line": 1,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 50
+            },
+            "end": {
+              "line": 2,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../../framework/poolManager",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 28
+            },
+            "end": {
+              "line": 3,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningLine.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "e7f8c87d-fa48-4107-9657-f4fe9c82c0bb"
+      },
+      "chunkId": "9c8755a34d0d27340fca8be7001999cb1747db1a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "../../framework/poolManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 28
+            },
+            "end": {
+              "line": 2,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/warningSkill/warningStrip.ts": {
+      "mTimestamp": {
+        "mtime": 1645499391000,
+        "uuid": "14e592d8-7f13-4d8e-838b-479a76326255"
+      },
+      "chunkId": "021f522fa253254a589c2f4212521f76ca3204ca",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../../framework/poolManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 28
+            },
+            "end": {
+              "line": 1,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 38
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/reward.ts": {
+      "mTimestamp": {
+        "mtime": 1671173841027.2336,
+        "uuid": "4b12dd3b-d858-4c53-8d6a-d9b6ac1c84f6"
+      },
+      "chunkId": "01e152af3eb4ee584b4987b6975f664bc8766a64",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./../framework/effectManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 30
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "./../framework/util",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 21
+            },
+            "end": {
+              "line": 2,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "./../framework/constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 76
+            },
+            "end": {
+              "line": 4,
+              "column": 80
+            }
+          }
+        },
+        {
+          "value": "../framework/clientEvent",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "./gameManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 28
+            },
+            "end": {
+              "line": 6,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "../framework/resourceUtil",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "../framework/audioManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 29
+            },
+            "end": {
+              "line": 8,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "../framework/poolManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 28
+            },
+            "end": {
+              "line": 9,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/util.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/resourceUtil.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/poolManager.ts"
           },
           "messages": []
         }

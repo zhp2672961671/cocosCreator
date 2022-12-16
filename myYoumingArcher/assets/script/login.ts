@@ -51,7 +51,7 @@ export class Login extends Component {
             // 进入主场景
             director.loadScene("fight", (err)=>{
                 console.log("loadScene========end")
-                this.ndCanvas.active=false;
+                // this.ndCanvas.active=false;
                 if(err)console.error(err)
             }, ()=>{
 

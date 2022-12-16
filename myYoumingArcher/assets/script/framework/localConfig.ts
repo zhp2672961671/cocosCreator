@@ -57,6 +57,7 @@ export class LocalConfig {
             } else {
                 this._tryToCallbackOnFinished();
             }
+            console.log("config===========================",this._csvManager)
         })
     }
 
