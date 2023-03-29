@@ -1,0 +1,13 @@
+{
+  "version": "2.3.1",
+  "sourceTimeStamp": 1629324455000,
+  "outputTimeStamps": {
+    "log.json": 1669360145239.2417,
+    "out.bin": 1669360145236.2502,
+    "out.gltf": 1669360145238.2449
+  },
+  "options": {
+    "preferLocalTimeSpan": false,
+    "smartMaterialEnabled": false
+  }
+}

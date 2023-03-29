@@ -1,0 +1,385 @@
+{
+  "path": {
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\simpleDissolve.effect": [
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\unlit-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\input.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\decode.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\data\\unpack.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\output.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\fog-fs.chunk"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\dragon\\edgeLight.effect": [
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lightingmap-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shading-standard-additive.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lighting.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\aces.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\lightingmap-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\standard-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\input-standard.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\data\\unpack.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\shared-ubos.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\data\\packing.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\lightingmap-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\standard-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\shading-standard.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\shading-standard-base.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\debug\\debug-view-define.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-environment.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\texture\\texture-lod.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-diffusemap.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\shading-standard-additive.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\lighting.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-forward-light.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\lighting\\attenuation.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\output-standard.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\common\\color\\aces.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\shadow-map-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\legacy\\lightingmap-fs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\builtin\\uniforms\\cc-light-map.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\shadow-caster-vs.chunk",
+      "E:\\myCocosGame\\youmingArcher\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\font\\fontWin.fnt": [
+      "E:\\myCocosGame\\youmingArcher\\assets\\res\\font\\fontWin_0.png"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\gameStart\\gameStart.plist": [
+      "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\gameStart\\gameStart.png"
+    ]
+  },
+  "uuid": {
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\material\\wall.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\cloud\\sky01.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\gameStart\\add.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\gameStart\\glow_blue3.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\AEWave2.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\CFX_T_Ray.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\CFX_T_Ray_trail.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Common_Leaf01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Common_SmokeStretched-001.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Common_SmokeStretched.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\dn_alch_0001.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\dust_puff_particle_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Effects_Textures_1668-1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\etc_mirage_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\etc_mirage_cold_bs.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\etc_mirage_red.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\etc_mirage_zi.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\falloffLightbeam.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\feixing4.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\fire_glow.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\fire_glow_eff.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\fire_glow_effadd.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\fire_particles_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\fire_particles_4_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Fog01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\FX_RingWave_008_TEX_KKJ.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\glow09.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\ice_pieces_2_color_sheet_new.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\impact_new_2_a_new_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\jetFires.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Lightningblue1x5.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\lightning_purple_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\M_Flash_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\M_Heal_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Ring_002.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\Rock01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\SharpCircle.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\SharpCircleGlow.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\SharpCircle_di.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\snow_dot.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\storm_sharpshock01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\vulcan_projectile.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\wakka02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\wavering02_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\WFX_T_MF Side RIFLE1 A8.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\texture\\won-light-up-sb.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\warning\\yj_tiao.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\warning\\yj_xian.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\effect\\warning\\yj_yuan.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\prop\\coin.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\prop\\heart.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\aulaNew\\aula.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\aulaNew\\aulaDissolve.mtl": [
+      "d0469f9a-ae95-417c-9467-d8fbc681c64a"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\boomDragonNew\\boomDragon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\boomDragonNew\\boomDragonDissolve.mtl": [
+      "d0469f9a-ae95-417c-9467-d8fbc681c64a"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\dragon\\dragon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\dragon\\dragonDissolve.mtl": [
+      "d0469f9a-ae95-417c-9467-d8fbc681c64a"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\dragon\\dragonHit.mtl": [
+      "f38bba13-68fe-4786-ac10-f324148af80d"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\hellFireNew\\hellFire.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\hellFireNew\\hellFireDissolve.mtl": [
+      "d0469f9a-ae95-417c-9467-d8fbc681c64a"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\magicianNew\\magician.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\monster\\magicianNew\\magicianDissolve.mtl": [
+      "d0469f9a-ae95-417c-9467-d8fbc681c64a"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\npc\\businessMan\\businessMan.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\npc\\wiseMan\\wiseMan.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\role\\role01\\DefaultMaterial.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\role\\role01\\role01.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\scene\\an\\3.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\scene\\an\\youanzong.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\scene\\skyBoxTex\\farBg01.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\scene\\skyBoxTex\\fog.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "E:\\myCocosGame\\youmingArcher\\assets\\res\\model\\scene\\skyBoxTex\\skyBox.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ]
+  }
+}

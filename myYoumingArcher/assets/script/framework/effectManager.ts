@@ -134,6 +134,7 @@ export class EffectManager {
                 }
 
                 if (eulerAngles) {
+                    // eulerAngles本地坐标系下的旋转，用欧拉角表示
                     ndEffect.eulerAngles = eulerAngles;
                 }
             } else {
@@ -144,6 +145,7 @@ export class EffectManager {
                 }
 
                 if (eulerAngles) {
+                    // 用欧拉角设置世界坐标系下的旋转
                     ndEffect.setWorldRotationFromEuler(eulerAngles.x, eulerAngles.y, eulerAngles.z);
                 }
             }
@@ -234,7 +236,7 @@ export class EffectManager {
 
                         let duration = aniState.duration;
                         maxDuration = duration > maxDuration ? duration : maxDuration;
-
+                        // 动画循环模式
                         if (isLoop) {
                             aniState.wrapMode = AnimationClip.WrapMode.Loop;
                         } else {
@@ -300,6 +302,7 @@ export class EffectManager {
 
         if (arrParticle.length) {
             arrParticle.forEach((element: ParticleSystemComponent) => {
+                // 控制整个粒子系统的更新速度。
                 element.simulationSpeed = speed;
                 element?.clear();
                 element?.stop();

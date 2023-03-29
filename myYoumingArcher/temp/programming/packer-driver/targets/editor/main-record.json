@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 9011.600699990988,
+      "mTimestamp": 8132.303100000019,
       "chunkId": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
       "imports": [
         {
@@ -556,7 +556,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 5148977.277199984,
+      "mTimestamp": 21679892.4098,
       "chunkId": "87adfa34b142e54211529667b3a4ed21ea1a32f9",
       "imports": [
         {
@@ -1216,7 +1216,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1671169497047,
+      "mTimestamp": 1671412380830,
       "chunkId": "be027f973d8ff1c6fe3dcfebbc993118a793ec1b",
       "imports": [],
       "type": "esm",
@@ -4116,10 +4116,10 @@
     },
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts": {
       "mTimestamp": {
-        "mtime": 1671087712357.205,
+        "mtime": 1671433874689.4617,
         "uuid": "554ba46f-7575-4269-965e-5c54afbc0a5e"
       },
-      "chunkId": "71f4615fd4192ed67e119286ec7889c62c26bc6b",
+      "chunkId": "164ff9bd926db3c98b857b472617b78940589c64",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",

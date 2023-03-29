@@ -59,7 +59,7 @@
     "time": 1669363574509.145
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect": {
-    "time": 1671161243094.2717,
+    "time": 1671420836543.887,
     "uuid": "5527e4a0-3f30-4123-9d9f-55a3803cd765",
     "missing": false
   },
@@ -179,7 +179,7 @@
     "time": 1669688391978.7434
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture": {
-    "time": 1671181646610.8105,
+    "time": 1671439628367.8752,
     "uuid": "15d213cd-9e19-4ed4-9817-24952cf05e28",
     "missing": false
   },
@@ -1523,7 +1523,7 @@
     "time": 1669360132176.482
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\script\\framework\\effectManager.ts": {
-    "time": 1671087712357.205,
+    "time": 1671433874689.4617,
     "uuid": "554ba46f-7575-4269-965e-5c54afbc0a5e",
     "missing": false
   },
@@ -1619,7 +1619,7 @@
     "time": 1671160754936.01
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect": {
-    "time": 1671174817051.4355,
+    "time": 1671435982846.8782,
     "uuid": "98fec039-e6f3-4b9a-8a06-1702f9e489d2",
     "missing": false
   },
@@ -1747,7 +1747,7 @@
     "time": 1671171562010.1501
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\trail\\coinTrail.prefab": {
-    "time": 1671173625523.449,
+    "time": 1671434093509.8435,
     "uuid": "ec460a1f-5b10-4d11-8884-4ca84c3dbecc",
     "missing": false
   },
@@ -2043,7 +2043,7 @@
     "time": 1671174817052.4329
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow": {
-    "time": 1671174827739.3484,
+    "time": 1671421844570.1284,
     "uuid": "6fbd7dc2-1cc7-4229-993d-934f6ada4b8a",
     "missing": false
   },
@@ -2051,7 +2051,7 @@
     "time": 1671174827743.3389
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowAll.prefab": {
-    "time": 1671181124004.2134,
+    "time": 1671419702786.6123,
     "uuid": "20a69de0-bdae-46e9-b0dd-fa15f1d0c07e",
     "missing": false
   },
@@ -2083,8 +2083,120 @@
     "time": 1671181646620.7832
   },
   "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\WFX_T_MF Side RIFLE1 A8.mtl": {
-    "time": 1671181715148.968,
+    "time": 1669360145526.9492,
     "uuid": "7391f964-ec1b-4369-8dc5-e207865200d6",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\lightning_purple_2_sheet.mtl.meta": {
+    "time": 1671418559635.4404
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\lightning_purple_2_sheet.mtl": {
+    "time": 1669360145480.1113,
+    "uuid": "1deef4f1-eaf4-4319-a0de-4646171fffe7",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowFire.prefab.meta": {
+    "time": 1671419370578.9397
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowFire.prefab": {
+    "time": 1671419676657.2063,
+    "uuid": "ec86fbaf-65f2-4bdb-8d51-fba7e15505b8",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowFireIce.prefab.meta": {
+    "time": 1671419722779.4817
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowFireIce.prefab": {
+    "time": 1671420063150.0513,
+    "uuid": "66a2c61e-9b0b-4453-b4d9-f50d1fc84890",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowIce.prefab.meta": {
+    "time": 1671419847840.8203
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowIce.prefab": {
+    "time": 1671420871719.5083,
+    "uuid": "7840a5db-1cca-40de-86ac-4187f219792a",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\etc_mirage_cold_bs.mtl.meta": {
+    "time": 1671420804590.1853
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\etc_mirage_cold_bs.mtl": {
+    "time": 1671420854657.604,
+    "uuid": "1837ead2-0521-4ee1-acfb-824b850ae572",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowLightning.prefab.meta": {
+    "time": 1671421042770.2097
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowLightning.prefab": {
+    "time": 1671421272500.9937,
+    "uuid": "a8824a72-6d0f-4edb-9432-ef698afacc6f",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\etc_mirage_zi.mtl.meta": {
+    "time": 1671421140473.764
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\etc_mirage_zi.mtl": {
+    "time": 1671421256923.1135,
+    "uuid": "761b5f31-0746-498f-8f1b-626f73c0635e",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowLightningFire.prefab.meta": {
+    "time": 1671421659721.681
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowLightningFire.prefab": {
+    "time": 1671421817110.6243,
+    "uuid": "6cfce815-809f-46e5-bc86-53d50b588511",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowLightningIce.prefab.meta": {
+    "time": 1671421844572.1235
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\arrow\\arrowLightningIce.prefab": {
+    "time": 1671430624414.3325,
+    "uuid": "2a02b100-44eb-4a0d-ac8d-58b5f6192b77",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\Common_SmokeStretched.mtl.meta": {
+    "time": 1671430502588.8215
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\Common_SmokeStretched.mtl": {
+    "time": 1671430601051.1187,
+    "uuid": "a4c55414-ae78-4a58-9f5a-2d87475d2470",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\dispersion.meta": {
+    "time": 1671435978139.4485
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\dispersion": {
+    "time": 1671435982846.8782,
+    "uuid": "ef536a17-0b3f-4536-bcd6-82e3d155f498",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\dispersion\\dispersion.prefab.meta": {
+    "time": 1671435964310.5042
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\resources\\prefab\\effect\\dispersion\\dispersion.prefab": {
+    "time": 1671441791184.436,
+    "uuid": "e20c80e6-336a-48c9-a20e-64540c587386",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\glow09.mtl.meta": {
+    "time": 1671438767135.3865
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\glow09.mtl": {
+    "time": 1671438800735.0015,
+    "uuid": "dfc6f62d-a652-4f81-b1a6-62931d64d883",
+    "missing": false
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\CFX_T_Ray.mtl.meta": {
+    "time": 1671439628370.867
+  },
+  "E:\\myCocosGame\\cocosCreator\\myYoumingArcher\\assets\\res\\effect\\texture\\CFX_T_Ray.mtl": {
+    "time": 1671440273652.4543,
+    "uuid": "ef27a2da-593e-483a-9161-d11ea4ff47e8",
     "missing": false
   }
 }

@@ -5,13 +5,14 @@
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/login.ts": "./chunks/7f/7feef0979731c8fcabef3d6d5986b9dc4bf0e3ba.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/main.ts": "./chunks/90/90d46a3d735e54237278226a8124a3995e36e74c.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameCamera.ts": "./chunks/77/774017f0ecc6be77cf2c661029345f6a1658f1a3.js",
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts": "./chunks/08/08a893618da716f7905ce8952b2887ca1c353d89.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/mapManager.ts": "./chunks/35/3564cfa3a5db00bdda76924b7cf2d3ad7bb7f1dd.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/monster.ts": "./chunks/f2/f28378c34253c69bc670b32095631aad1a4b0717.js",
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/reward.ts": "./chunks/01/01e152af3eb4ee584b4987b6975f664bc8766a64.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/audioManager.ts": "./chunks/a4/a42f7f4e1e6dd585a150f2c7a185c6148176edce.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/clientEvent.ts": "./chunks/f8/f820c2cc3bac5069d4691870384ea1e0ccc09f4b.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/constant.ts": "./chunks/0d/0d32e114c66374e28297a6aa62cd32ef89d34bc8.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/csvManager.ts": "./chunks/e9/e995ddf26149da221b362faf1ecfabd5e6e0544f.js",
-    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts": "./chunks/71/71f4615fd4192ed67e119286ec7889c62c26bc6b.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/localConfig.ts": "./chunks/f6/f6c68e9a016e848f07912e16c353188de438b878.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/lodash.ts": "./chunks/4c/4cfbcb6c590a94651e98023bee343e3cfa69e43e.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/playerData.ts": "./chunks/3a/3ac4604c103049cb74ca4b325cdda3c849c02cbe.js",
@@ -27,8 +28,7 @@
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/home/homePanel.ts": "./chunks/06/06395454340e697b4b76e2f4b92344a0c513adcb.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/loading/loadingPanel.ts": "./chunks/00/00c765b532153bb832963196867f00d759db7dae.js",
     "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/ui/setting/settingPanel.ts": "./chunks/02/02ff565e848b2b0a6ea41a3a267b263133a06520.js",
-    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/gameManager.ts": "./chunks/08/08a893618da716f7905ce8952b2887ca1c353d89.js",
-    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/fight/reward.ts": "./chunks/01/01e152af3eb4ee584b4987b6975f664bc8766a64.js"
+    "file:///E:/myCocosGame/cocosCreator/myYoumingArcher/assets/script/framework/effectManager.ts": "./chunks/16/164ff9bd926db3c98b857b472617b78940589c64.js"
   },
   "scopes": {
     "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js": {
@@ -64,7 +64,7 @@
       "__unresolved_1": "./chunks/08/08a893618da716f7905ce8952b2887ca1c353d89.js",
       "__unresolved_10": "./chunks/0d/0d32e114c66374e28297a6aa62cd32ef89d34bc8.js",
       "__unresolved_11": "./chunks/e9/e995ddf26149da221b362faf1ecfabd5e6e0544f.js",
-      "__unresolved_12": "./chunks/71/71f4615fd4192ed67e119286ec7889c62c26bc6b.js",
+      "__unresolved_12": "./chunks/16/164ff9bd926db3c98b857b472617b78940589c64.js",
       "__unresolved_13": "./chunks/f6/f6c68e9a016e848f07912e16c353188de438b878.js",
       "__unresolved_14": "./chunks/4c/4cfbcb6c590a94651e98023bee343e3cfa69e43e.js",
       "__unresolved_15": "./chunks/3a/3ac4604c103049cb74ca4b325cdda3c849c02cbe.js",
@@ -174,7 +174,7 @@
     },
     "./chunks/01/01e152af3eb4ee584b4987b6975f664bc8766a64.js": {
       "__unresolved_0": "./chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js",
-      "__unresolved_1": "./chunks/71/71f4615fd4192ed67e119286ec7889c62c26bc6b.js",
+      "__unresolved_1": "./chunks/16/164ff9bd926db3c98b857b472617b78940589c64.js",
       "__unresolved_2": "./chunks/37/371dc8d69dd2a58afcb1815bdc351683f63c77ed.js",
       "__unresolved_3": "./chunks/0d/0d32e114c66374e28297a6aa62cd32ef89d34bc8.js",
       "__unresolved_4": "./chunks/f8/f820c2cc3bac5069d4691870384ea1e0ccc09f4b.js",
@@ -184,7 +184,7 @@
       "__unresolved_8": "./chunks/d7/d7dce7b2f9d75a46823ce4945042975fbd12e0f4.js",
       "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
     },
-    "./chunks/71/71f4615fd4192ed67e119286ec7889c62c26bc6b.js": {
+    "./chunks/16/164ff9bd926db3c98b857b472617b78940589c64.js": {
       "__unresolved_0": "./chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js",
       "__unresolved_1": "./chunks/d7/d7dce7b2f9d75a46823ce4945042975fbd12e0f4.js",
       "__unresolved_2": "./chunks/cd/cd09391cb2f7d3ae0738428841b0b1ef3405bfb2.js",
@@ -201,7 +201,7 @@
       "__unresolved_19": "./chunks/d7/d7dce7b2f9d75a46823ce4945042975fbd12e0f4.js",
       "__unresolved_2": "./chunks/37/371dc8d69dd2a58afcb1815bdc351683f63c77ed.js",
       "__unresolved_3": "./chunks/f6/f6c68e9a016e848f07912e16c353188de438b878.js",
-      "__unresolved_4": "./chunks/71/71f4615fd4192ed67e119286ec7889c62c26bc6b.js",
+      "__unresolved_4": "./chunks/16/164ff9bd926db3c98b857b472617b78940589c64.js",
       "__unresolved_5": "./chunks/b4/b4ec448315e0d072470618ae34279dc61e38bc76.js",
       "__unresolved_6": "./chunks/0d/0d32e114c66374e28297a6aa62cd32ef89d34bc8.js",
       "__unresolved_7": "./chunks/08/08a893618da716f7905ce8952b2887ca1c353d89.js",

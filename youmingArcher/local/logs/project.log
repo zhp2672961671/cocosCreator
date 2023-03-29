@@ -1,0 +1,499 @@
+2022-12-19T01:15:50.729Z - log: [Package] menu@1.0.0 enable
+2022-12-19T01:15:50.730Z - log: [Package] profile@1.0.0 enable
+2022-12-19T01:15:50.751Z - log: [Package] project@1.0.2 enable
+2022-12-19T01:15:50.756Z - log: [Package] messages@1.0.0 enable
+2022-12-19T01:15:50.761Z - log: [Package] program@1.0.0 enable
+2022-12-19T01:15:50.768Z - log: [Package] tester@1.0.0 enable
+2022-12-19T01:15:50.775Z - log: [Package] preferences@1.0.0 enable
+2022-12-19T01:15:53.545Z - log: Load engine in D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine
+2022-12-19T01:15:53.987Z - log: Profile changed: engine (modules.includeModules: 2d,3d,animation,audio,base,gfx-webgl,particle,physics-ammo,primitive,profiler,skeletal-animation,tween,ui,xr)
+2022-12-19T01:15:53.996Z - log: Register native engine in D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\native
+2022-12-19T01:15:53.999Z - log: [Package] engine@1.0.7 enable
+2022-12-19T01:15:55.026Z - log: [Package] programming@1.0.0 enable
+2022-12-19T01:15:55.121Z - warn: 
+2022-12-19T01:15:55.159Z - warn: 
+2022-12-19T01:15:55.394Z - log: [Package] device@1.0.1 enable
+2022-12-19T01:15:55.429Z - log: [Package] ui-kit@1.0.1 enable
+2022-12-19T01:15:55.458Z - log: [Package] engine-extends@1.0.0 enable
+2022-12-19T01:15:55.526Z - log: [Package] asset-db@1.0.0 enable
+2022-12-19T01:15:55.527Z - warn: 
+2022-12-19T01:15:55.562Z - log: [Package] scene@1.0.0 enable
+2022-12-19T01:15:55.705Z - log: [Package] server@1.0.0 enable
+2022-12-19T01:15:55.732Z - log: [Package] utils@1.0.0 enable
+2022-12-19T01:15:59.399Z - warn: 
+2022-12-19T01:15:59.400Z - warn: 
+2022-12-19T01:15:59.400Z - warn: 
+2022-12-19T01:15:59.919Z - warn: 
+2022-12-19T01:15:59.919Z - warn: 
+2022-12-19T01:15:59.919Z - warn: 
+2022-12-19T01:16:01.270Z - warn: 
+2022-12-19T01:16:01.380Z - log: [Package] preview@1.0.1 enable
+2022-12-19T01:16:01.412Z - log: [Package] animator@1.0.0 enable
+2022-12-19T01:16:01.451Z - log: pluginManager init: 0.106ms
+2022-12-19T01:16:02.483Z - log: [Package] builder@1.3.3 enable
+2022-12-19T01:16:02.516Z - log: [Package] shortcuts@1.0.1 enable
+2022-12-19T01:16:02.547Z - log: [Package] animation-graph@1.0.0 enable
+2022-12-19T01:16:02.575Z - log: [Package] about@1.0.0 enable
+2022-12-19T01:16:02.602Z - log: [Package] assets@1.0.0 enable
+2022-12-19T01:16:02.631Z - log: [Package] console@1.0.0 enable
+2022-12-19T01:16:02.786Z - log: [Package] extension@3.0.16 enable
+2022-12-19T01:16:02.815Z - log: [Package] hierarchy@1.0.0 enable
+2022-12-19T01:16:02.845Z - log: [Package] inspector@1.0.0 enable
+2022-12-19T01:16:02.874Z - log: [Package] lightmap@1.0.4 enable
+2022-12-19T01:16:03.226Z - log: [Package] localization-editor@1.0.0 enable
+2022-12-19T01:16:03.236Z - log: [Build-plugin] register pkg localization-editor: 6.805ms
+2022-12-19T01:16:03.263Z - log: [Package] node-library@1.0.1 enable
+2022-12-19T01:16:03.286Z - log: [Package] package-asset@1.0.0 enable
+2022-12-19T01:16:03.313Z - log: [Package] process@1.0.0 enable
+2022-12-19T01:16:03.342Z - log: [Package] reference-image@1.0.0 enable
+2022-12-19T01:16:03.364Z - log: [Package] alipay-mini-game@1.0.1 enable
+2022-12-19T01:16:03.365Z - log: [Build-plugin] register pkg alipay-mini-game: 0.849ms
+2022-12-19T01:16:03.388Z - log: [Package] android@1.0.1 enable
+2022-12-19T01:16:03.395Z - log: [Build-plugin] register pkg android: 6.545ms
+2022-12-19T01:16:03.453Z - log: [Package] baidu-mini-game@1.0.1 enable
+2022-12-19T01:16:03.457Z - log: [Build-plugin] register pkg baidu-mini-game: 3.663ms
+2022-12-19T01:16:03.484Z - log: [Package] bytedance-mini-game@1.0.2 enable
+2022-12-19T01:16:03.486Z - log: [Build-plugin] register pkg bytedance-mini-game: 2.526ms
+2022-12-19T01:16:03.509Z - log: [Package] certificate@1.0.0 enable
+2022-12-19T01:16:03.531Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-12-19T01:16:03.555Z - log: [Package] cocos-play@1.0.1 enable
+2022-12-19T01:16:03.559Z - log: [Build-plugin] register pkg cocos-play: 3.841ms
+2022-12-19T01:16:03.582Z - log: [Package] huawei-agc@1.0.0 enable
+2022-12-19T01:16:03.585Z - log: [Build-plugin] register pkg huawei-agc: 2.842ms
+2022-12-19T01:16:03.608Z - log: [Package] huawei-quick-game@1.0.1 enable
+2022-12-19T01:16:03.611Z - log: [Build-plugin] register pkg huawei-quick-game: 3.131ms
+2022-12-19T01:16:03.635Z - log: [Package] ios@1.0.0 enable
+2022-12-19T01:16:03.639Z - log: [Build-plugin] register pkg ios: 3.424ms
+2022-12-19T01:16:03.660Z - log: [Package] linux@1.0.0 enable
+2022-12-19T01:16:03.661Z - log: [Build-plugin] register pkg linux: 0.813ms
+2022-12-19T01:16:03.682Z - log: [Package] mac@1.0.0 enable
+2022-12-19T01:16:03.687Z - log: [Build-plugin] register pkg mac: 3.895ms
+2022-12-19T01:16:03.775Z - log: [Package] native@1.0.2 enable
+2022-12-19T01:16:03.785Z - log: [Build-plugin] register pkg native: 8.95ms
+2022-12-19T01:16:03.809Z - log: [Package] ohos@1.0.0 enable
+2022-12-19T01:16:03.812Z - log: [Build-plugin] register pkg ohos: 3.09ms
+2022-12-19T01:16:03.834Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-12-19T01:16:03.835Z - log: [Build-plugin] register pkg open-harmonyos: 0.868ms
+2022-12-19T01:16:03.857Z - log: [Package] oppo-mini-game@1.0.1 enable
+2022-12-19T01:16:03.860Z - log: [Build-plugin] register pkg oppo-mini-game: 3.307ms
+2022-12-19T01:16:03.881Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-12-19T01:16:03.902Z - log: [Package] vivo-mini-game@1.0.1 enable
+2022-12-19T01:16:03.907Z - log: [Build-plugin] register pkg vivo-mini-game: 3.954ms
+2022-12-19T01:16:03.947Z - log: [Package] web-desktop@1.0.1 enable
+2022-12-19T01:16:03.950Z - log: [Build-plugin] register pkg web-desktop: 2.732ms
+2022-12-19T01:16:03.981Z - log: [Package] web-mobile@1.0.1 enable
+2022-12-19T01:16:03.986Z - log: [Build-plugin] register pkg web-mobile: 3.516ms
+2022-12-19T01:16:04.015Z - log: [Package] wechatgame@1.0.2 enable
+2022-12-19T01:16:04.019Z - log: [Build-plugin] register pkg wechatgame: 4.03ms
+2022-12-19T01:16:04.055Z - log: [Package] windows@1.0.1 enable
+2022-12-19T01:16:04.058Z - log: [Build-plugin] register pkg windows: 2.734ms
+2022-12-19T01:16:04.059Z - warn: 
+2022-12-19T01:16:04.059Z - warn: 
+2022-12-19T01:16:04.059Z - warn: 
+2022-12-19T01:16:04.080Z - log: [Package] xiaomi-quick-game@1.0.1 enable
+2022-12-19T01:16:04.083Z - log: [Build-plugin] register pkg xiaomi-quick-game: 3.103ms
+2022-12-19T01:16:04.312Z - log: [Package] cocos-service@3.0.4 enable
+2022-12-19T01:16:04.317Z - log: [Build-plugin] register pkg cocos-service: 2.535ms
+2022-12-19T01:16:04.346Z - log: [Package] importer@1.1.0 enable
+2022-12-19T01:16:04.579Z - log: [Im-plugin] Check im-plugin version.
+2022-12-19T01:16:04.583Z - log: [Package] im-plugin@3.0.9 enable
+2022-12-19T01:16:06.078Z - log: [Im-plugin] No online info of im-plugin.
+2022-12-19T01:16:07.731Z - log: [Scene] Please specifiy a default value for "cc.EditorExtendable.__editorExtras__" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.751Z - log: [Scene] Please specifiy a default value for "CCPropertyOverrideInfo.value" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.753Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.asset" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.753Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.nestedPrefabInstanceRoots" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.757Z - log: [Scene] The 'default' attribute of 'ColorDesc.beginAccesses' must be an array
+2022-12-19T01:16:07.757Z - log: [Scene] The 'default' attribute of 'ColorDesc.endAccesses' must be an array
+2022-12-19T01:16:07.771Z - log: [Scene] Please specifiy a default value for "cc.animation.TrackBinding.proxy" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.771Z - log: [Scene] Please specifiy a default value for "cc.animation.Channel._curve" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.772Z - log: [Scene] Please specifiy a default value for "cc.animation.SingleChannelTrack._channel" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.773Z - log: [Scene] Please specifiy a default value for "cc.animation.VectorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.773Z - log: [Scene] Please specifiy a default value for "cc.animation.ColorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.773Z - log: [Scene] Please specifiy a default value for "cc.animation.SizeTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.774Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.from" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.774Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.to" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.774Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._entryState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.774Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._exitState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.774Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._anyState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.775Z - log: [Scene] Please specifiy a default value for "cc.animation.Layer._stateMachine" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.775Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.775Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._isQuantized" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.775Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.times" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.775Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.776Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.originalPrecision" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.776Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.min" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.776Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.extent" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.776Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-12-19T01:16:07.808Z - log: [Scene] 'cc.ParticleSystem2D.color' hides inherited property 'cc.UIRenderer.color'. To make the current property override that implementation, add the `override: true` attribute please.
+2022-12-19T01:16:07.855Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._receiveShadow", which its default value is type of Boolean.
+2022-12-19T01:16:07.855Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._useNormalmap", which its default value is type of Boolean.
+2022-12-19T01:16:07.855Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._usePBR", which its default value is type of Boolean.
+2022-12-19T01:16:07.855Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._lodEnable", which its default value is type of Boolean.
+2022-12-19T01:16:07.932Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2022-12-19T01:16:07.942Z - info: [Scene] [PHYSICS]: using builtin.
+2022-12-19T01:16:08.125Z - log: [Scene] Cocos Creator v3.6.2
+2022-12-19T01:16:08.125Z - info: [Scene] Forward render pipeline initialized.
+2022-12-19T01:16:08.574Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/04/046d36570e6f27e885a70ee877637e191b048307.js:51:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.611Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/58/586ede52152da3b40e7148ade14dd8ff32293847.js:48:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.612Z - warn: [Scene] 'LayoutComponent' is deprecated since v1.2.0, please use 'Layout' instead.Error: [Scene] 'LayoutComponent' is deprecated since v1.2.0, please use 'Layout' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/15/153274acf0430b450b60413206db8f5981e7b6ab.js:55:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.612Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/15/153274acf0430b450b60413206db8f5981e7b6ab.js:55:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.613Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/50/500fa15c5ad721cb4d2b27be36233185b2252c82.js:50:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.794Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/94/947e79015c14810760142c9af001a808f8098074.js:48:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.859Z - warn: [Scene] 'ButtonComponent' is deprecated since v1.2.0, please use 'Button' instead.Error: [Scene] 'ButtonComponent' is deprecated since v1.2.0, please use 'Button' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/cb/cb6c531a143d1fadb2985386488a10802c7b553d.js:54:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.868Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/03/0303a8082a3378bb1420c3935e611978db5b97f3.js:61:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.894Z - warn: [Scene] 'ButtonComponent' is deprecated since v1.2.0, please use 'Button' instead.Error: [Scene] 'ButtonComponent' is deprecated since v1.2.0, please use 'Button' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/5f/5f79f6c7a334e67a96b99e8fb43f118cc0a50341.js:67:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.904Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/1b/1b8e83579c24464c8c8dac0371056cd1398be000.js:26:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.904Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/1b/1b8e83579c24464c8c8dac0371056cd1398be000.js:26:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.906Z - warn: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.Error: [Scene] 'UITransformComponent' is deprecated since v1.2.0, please use 'UITransform' instead.
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at _checkObsoleteByName (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163407:7)
+    at __checkObsolete__ (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:163427:7)
+    at Object.execute (file:///E:/myCocosGame/youmingArcher/temp/programming/packer-driver/targets/editor/chunks/41/414e99c81f115524f7aa96bd1b8446bc29e1e924.js:62:7)
+    at doExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2022-12-19T01:16:08.908Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2022-12-19T01:23:28.350Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T01:24:42.607Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T03:36:57.173Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T03:47:13.789Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T03:47:20.377Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T03:47:22.500Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T03:50:21.593Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T06:54:40.647Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T07:02:10.474Z - warn: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficientError: [Scene] cc.ParticleSystem: life time should bigger than 1 or buffer will be insufficient
+    at warn (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145571:12)
+    at warnID (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:145785:5)
+    at TrailModule.onInit (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171483:13)
+    at ParticleSystem.onLoad (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:16572:31)
+    at eval (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:153415:16)
+    at OneOffInvoker.eval [as _invoke] (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:151963:9)
+    at OneOffInvoker.invoke (D:\CocosDashboard\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152113:18)
+2022-12-19T09:22:32.241Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2022-12-19T09:22:32.241Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
