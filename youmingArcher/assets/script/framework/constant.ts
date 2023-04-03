@@ -40,7 +40,7 @@ export class Constant {
         ATTACK_1: "attack1",//hellFire独有的攻击1
         ATTACK_2: "attack2",//hellFire独有的攻击2
     }
-    
+
     //玩家行为
     public static PLAYER_ACTION = {
         MOVE: 1,
@@ -52,7 +52,7 @@ export class Constant {
         MOVE: 1,
         STOP_MOVE: 2,
     }
-    
+
     //碰撞分组
     public static PHY_GROUP = {
         DEFAULT: 1<<0,//
@@ -64,7 +64,7 @@ export class Constant {
         OBSTACLE: 1<<6,//障碍
     }
 
-    //血条类型 
+    //血条类型
     public static BLOOD_BAR = {
         PLAYER: 1,
         MONSTER: 2,
@@ -137,7 +137,7 @@ export class Constant {
         AD: 0,
         SHARE: 1,
         NULL: 2
-    }   
+    }
 
     //playerSkill.csv 名称: ID
     public static PLAYER_SKILL = {
@@ -271,8 +271,8 @@ export class Constant {
         LIGHTNING: 'lightning',//技能-闪电
         FIRE: 'fire',//技能-火焰
         GOLD_COLLECT: "goldCollect",//金币收集
-        // 技能-丢石头.mp3			
+        // 技能-丢石头.mp3
     }
-    
+
     public static LOGIN_TIME = 0;
 }
