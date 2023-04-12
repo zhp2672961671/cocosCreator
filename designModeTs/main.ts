@@ -2,7 +2,7 @@
  * @Author: 章红平
  * @Date: 2023-04-03 13:56:49
  * @LastEditors: 章红平
- * @LastEditTime: 2023-04-12 15:03:13
+ * @LastEditTime: 2023-04-12 17:05:44
  * @FilePath: \cocosCreator\designModeTs\main.ts
  * @Description: 测试
  * https://www.zhihu.com/question/46221055/answer/2930828231
@@ -11,6 +11,7 @@ import Singlerow from './singlerow';
 import {MCPizza,KFCPizza,PizzaFactory,PizzaFactory2,KFCPizzaFactory,PizzaFactory3,CheesePizzaFactory} from './factory';
 import {Dog}from './prototypePattern'
 import {HamburgDirector,BeefHamburgBuilder,PorkHamburgBuilder,BeefHamburgBuilder1,PorkHamburgBuilder1,HamburgDirector1}from './builder'
+import {PowerAdapter,PowerTarget,PowerAdapter1}from './adapter'
 // 单列
 var s1 = Singlerow.getInstance();
 var s2 = Singlerow.getInstance();
@@ -45,3 +46,8 @@ let beefHamburgBuilder1 = new BeefHamburgBuilder1();
 let porkHamburgBuilder1 = new PorkHamburgBuilder1();
 HamburgDirector1.construct1(beefHamburgBuilder1, 2, 'beef', 'carrot');
 HamburgDirector1.construct2(porkHamburgBuilder1, 3, 'pork');
+// 适配器模式
+let  target: PowerTarget = new PowerAdapter();
+target.output12V();
+let  target1: PowerTarget = new PowerAdapter1();
+target1.output12V();
