@@ -1,8 +1,9 @@
+
 /*
  * @Author: 章红平
  * @Date: 2023-04-03 15:32:44
  * @LastEditors: 章红平
- * @LastEditTime: 2023-04-03 18:29:48
+ * @LastEditTime: 2023-04-12 10:13:07
  * @FilePath: \cocosCreator\designModeTs\factory.ts
  * @Description:工厂模式(Factory Pattern): 将对象的创建与使用分离，让客户端通过一个工厂类来创建所需的对象。
  * 在游戏中，工厂模式常用于创建各种游戏对象，例如敌人、道具、场景元素等。常见应用场景: 游戏中的物品生成器、NPC生成器等。
