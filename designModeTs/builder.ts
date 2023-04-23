@@ -2,7 +2,7 @@
  * @Author: 章红平
  * @Date: 2023-04-12 11:32:37
  * @LastEditors: 章红平
- * @LastEditTime: 2023-04-12 15:35:55
+ * @LastEditTime: 2023-04-21 14:40:27
  * @FilePath: \cocosCreator\designModeTs\builder.ts
  * @Description: 描述
  *.建造者模式Q (Builder Pattern) 机制: 通过将一个复杂对象的构建过程分解为多个简单的步骤来构建对象。
