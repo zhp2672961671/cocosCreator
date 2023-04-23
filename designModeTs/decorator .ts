@@ -2,7 +2,7 @@
  * @Author: 章红平
  * @Date: 2023-04-13 09:05:37
  * @LastEditors: 章红平
- * @LastEditTime: 2023-04-23 10:28:29
+ * @LastEditTime: 2023-04-23 15:16:01
  * @FilePath: \cocosCreator\designModeTs\decorator .ts
  * @Description:
  *  装饰器模式是将一个对象放到一个装饰器对象中，执行装饰器类里的方法时，对象的行为能力得到增强。
@@ -53,7 +53,7 @@ export class RedShapeDecorator extends ShapeDecorator {
 
     setRedColor(decoratedShape: Shape) {
         console.log(
-            'RedShapeDecorator::setRedColor() ' + decoratedShape.constructor.name
+            'RedShapeDecorator::setRedColor() '
         )
     }
 }
@@ -64,12 +64,12 @@ export class ShadowShapeDecorator extends ShapeDecorator {
     }
 
     draw() {
-        this.setShadow(this.decoratedShape)
+        this.setShadow(this.decoratedShape)s
     }
 
     setShadow(decoratedShape: Shape) {
         console.log(
-            'ShadowShapeDecorator::setShadow() ' + decoratedShape.constructor.name
+            'ShadowShapeDecorator::setShadow() '
         )
     }
 }

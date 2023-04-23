@@ -2,17 +2,18 @@
  * @Author: 章红平
  * @Date: 2023-04-03 13:56:49
  * @LastEditors: 章红平
- * @LastEditTime: 2023-04-23 10:41:08
+ * @LastEditTime: 2023-04-23 14:50:39
  * @FilePath: \cocosCreator\designModeTs\main.ts
  * @Description: 测试
  * https://www.zhihu.com/question/46221055/answer/2930828231
  */
 import Singlerow from './singlerow';
-import {MCPizza,KFCPizza,PizzaFactory,PizzaFactory2,KFCPizzaFactory,PizzaFactory3,CheesePizzaFactory} from './factory';
-import {Dog}from './prototypePattern'
-import {HamburgDirector,BeefHamburgBuilder,PorkHamburgBuilder,BeefHamburgBuilder1,PorkHamburgBuilder1,HamburgDirector1}from './builder'
-import {PowerAdapter,PowerTarget,PowerAdapter1}from './adapter'
-import {Circle,Square,RedShapeDecorator,ShadowShapeDecorator}from './decorator '
+import { MCPizza, KFCPizza, PizzaFactory, PizzaFactory2, KFCPizzaFactory, PizzaFactory3, CheesePizzaFactory } from './factory';
+import { Dog } from './prototypePattern'
+import { HamburgDirector, BeefHamburgBuilder, PorkHamburgBuilder, BeefHamburgBuilder1, PorkHamburgBuilder1, HamburgDirector1 } from './builder'
+import { PowerAdapter, PowerTarget, PowerAdapter1 } from './adapter'
+import { Circle, Square, RedShapeDecorator, ShadowShapeDecorator } from './decorator '
+import { ProxyImage } from './proxy'
 // 单列
 var s1 = Singlerow.getInstance();
 var s2 = Singlerow.getInstance();
@@ -48,9 +49,9 @@ let porkHamburgBuilder1 = new PorkHamburgBuilder1();
 HamburgDirector1.construct1(beefHamburgBuilder1, 2, 'beef', 'carrot');
 HamburgDirector1.construct2(porkHamburgBuilder1, 3, 'pork');
 // 适配器模式
-let  target: PowerTarget = new PowerAdapter();
+let target: PowerTarget = new PowerAdapter();
 target.output12V();
-let  target1: PowerTarget = new PowerAdapter1();
+let target1: PowerTarget = new PowerAdapter1();
 target1.output12V();
 
 /**
@@ -74,3 +75,13 @@ const shadowCircle = new ShadowShapeDecorator(circle)
 const shadowSquare = new ShadowShapeDecorator(square)
 shadowCircle.draw()
 shadowSquare.draw()
+
+// 代理模式
+// 声明代理类来执行真实类的能力
+const image = new ProxyImage('001.jpg')
+
+// 代理类执行真实类的能力
+image.display()
+
+// 再调用一次，不会重复实例化
+image.display()
