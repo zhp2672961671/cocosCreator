@@ -1,3 +1,11 @@
+/*
+ * @Author: 章红平
+ * @Date: 2023-04-21 10:49:11
+ * @LastEditors: 章红平
+ * @LastEditTime: 2023-04-23 15:12:09
+ * @FilePath: \cocosCreator\design-pattern-main\proxy-pattern\js\test\test.js
+ * @Description: 描述
+ */
 import { ProxyImage } from '../src/ProxyImage.js'
 
 export function test() {

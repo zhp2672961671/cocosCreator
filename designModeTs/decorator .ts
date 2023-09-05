@@ -64,7 +64,7 @@ export class ShadowShapeDecorator extends ShapeDecorator {
     }
 
     draw() {
-        this.setShadow(this.decoratedShape)s
+        this.setShadow(this.decoratedShape)
     }
 
     setShadow(decoratedShape: Shape) {
